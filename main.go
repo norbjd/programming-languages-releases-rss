@@ -26,6 +26,7 @@ var repos = []*GithubRepo{
 	{ID: "python", Language: "Python", Owner: "python", Name: "cpython"},
 	{ID: "rust", Language: "Rust", Owner: "rust-lang", Name: "rust"},
 	{ID: "php", Language: "PHP", Owner: "php", Name: "php-src"},
+	{ID: "go", Language: "Go", Owner: "golang", Name: "go"},
 }
 
 const maxItems = 30
@@ -84,9 +85,9 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 			Ref struct {
 				Edges []struct {
 					Node struct {
+						Name   string
 						Target struct {
 							Tag struct {
-								Name   string
 								Tagger struct {
 									Date time.Time
 								} `graphql:"tagger"`
@@ -124,7 +125,7 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 	log.Debugf("Retrieved %d items", len(edges))
 
 	for _, edge := range edges {
-		tagName := edge.Node.Target.Tag.Name
+		tagName := edge.Node.Name
 
 		item := &feeds.Item{
 			Title:   tagName,
