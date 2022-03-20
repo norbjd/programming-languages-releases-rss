@@ -1,6 +1,6 @@
 module github.com/norbjd/programming-languages-releases-rss
 
-go 1.18
+go 1.17
 
 require (
 	github.com/gorilla/feeds v1.1.1
