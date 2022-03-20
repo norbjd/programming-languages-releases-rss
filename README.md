@@ -9,7 +9,7 @@ RSS feeds generation is based on [Github GraphQL API](https://docs.github.com/en
 Generate feeds by running:
 
 ```shell
-GITHUB_TOKEN="<your-github-token>" go run main.go
+GRAPHQL_API_GITHUB_TOKEN="<your-github-token>" go run main.go
 ```
 
 `DEBUG` environment variable can be set for debugging purposes.

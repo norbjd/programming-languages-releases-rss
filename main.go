@@ -32,9 +32,9 @@ var repos = []*GithubRepo{
 const maxItems = 30
 
 func main() {
-	githubToken := os.Getenv("GITHUB_TOKEN")
+	githubToken := os.Getenv("GRAPHQL_API_GITHUB_TOKEN")
 	if githubToken == "" {
-		log.Fatalln("GITHUB_TOKEN env var must be set")
+		log.Fatalln("GRAPHQL_API_GITHUB_TOKEN env var must be set")
 	}
 
 	if _, ok := os.LookupEnv("DEBUG"); ok {
