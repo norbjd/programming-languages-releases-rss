@@ -79,6 +79,10 @@ func main() {
 
 func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client, repo *GithubRepo) (*feeds.Feed, error) {
 	var q struct {
+		RateLimit struct {
+			Cost      int
+			Remaining int
+		}
 		Repository struct {
 			URL string
 			Ref struct {
@@ -112,6 +116,7 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 	}
 
 	log.Debugf("GraphQL query result: %+v\n", q)
+	log.Debugf("Query cost: %d, remaining queries: %d\n", q.RateLimit.Cost, q.RateLimit.Remaining)
 
 	feed := &feeds.Feed{
 		Title:       fmt.Sprintf("%s releases", repo.Language),
