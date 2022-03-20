@@ -49,13 +49,12 @@ func main() {
 		},
 	))
 	clientGraphQL := githubv4.NewClient(httpClient)
-	now := time.Now()
 
 	for _, repo := range repos {
 		logEntry := log.WithField("repoID", repo.ID)
 
 		logEntry.Info("Creating feed from repo...")
-		feed, err := createFeedFromGithubGraphQLAPI(ctx, clientGraphQL, repo, now)
+		feed, err := createFeedFromGithubGraphQLAPI(ctx, clientGraphQL, repo)
 		if err != nil {
 			logEntry.WithError(err).Fatalln("Failed to retrieve feed")
 		}
@@ -78,7 +77,7 @@ func main() {
 	}
 }
 
-func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client, repo *GithubRepo, feedCreationTime time.Time) (*feeds.Feed, error) {
+func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client, repo *GithubRepo) (*feeds.Feed, error) {
 	var q struct {
 		Repository struct {
 			URL string
@@ -118,7 +117,6 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 		Title:       fmt.Sprintf("%s releases", repo.Language),
 		Link:        &feeds.Link{Href: fmt.Sprintf("%s/tags", q.Repository.URL)},
 		Description: fmt.Sprintf("%s releases", repo.Language),
-		Created:     feedCreationTime,
 	}
 
 	edges := q.Repository.Ref.Edges
