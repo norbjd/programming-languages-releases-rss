@@ -73,7 +73,7 @@ func main() {
 
 		logEntry.Info("Writing RSS file")
 
-		if err := feed.WriteAtom(bufio.NewWriter(f)); err != nil {
+		if err := feed.WriteRss(bufio.NewWriter(f)); err != nil {
 			logEntry.WithError(err).Fatalln("Failed to write rss file")
 		}
 	}
