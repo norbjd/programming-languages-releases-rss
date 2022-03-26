@@ -1,216 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Go releases</title>
   <id>https://github.com/golang/go/tags</id>
-  <updated>2022-03-26T16:09:04Z</updated>
+  <updated>2022-03-26T16:12:19Z</updated>
   <subtitle>Go releases</subtitle>
   <link href="https://github.com/golang/go/tags"></link>
   <entry>
     <title>go1.18</title>
-    <updated></updated>
-    <id>urn:uuid:abf35324-a79b-4151-8bb6-e2b47c73808b</id>
+    <updated>2022-03-15T14:06:18Z</updated>
+    <id>tag:github.com,2022-03-15:/golang/go/releases/tag/go1.18</id>
     <link href="https://github.com/golang/go/releases/tag/go1.18" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.8</title>
-    <updated></updated>
-    <id>urn:uuid:d6313cb7-37bc-45a1-b202-3bcea1c03aff</id>
+    <updated>2022-03-03T16:55:45Z</updated>
+    <id>tag:github.com,2022-03-03:/golang/go/releases/tag/go1.17.8</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.15</title>
-    <updated></updated>
-    <id>urn:uuid:04e5776f-1a7d-40e1-932f-a416fe0c539f</id>
+    <updated>2022-03-03T16:55:37Z</updated>
+    <id>tag:github.com,2022-03-03:/golang/go/releases/tag/go1.16.15</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.18rc1</title>
-    <updated></updated>
-    <id>urn:uuid:87536814-0ef0-4ec3-abf1-89047ce37924</id>
+    <updated>2022-02-16T22:23:24Z</updated>
+    <id>tag:github.com,2022-02-16:/golang/go/releases/tag/go1.18rc1</id>
     <link href="https://github.com/golang/go/releases/tag/go1.18rc1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.7</title>
-    <updated></updated>
-    <id>urn:uuid:0c3bb262-c46c-4782-8886-5afae9c5c4f3</id>
+    <updated>2022-02-09T18:09:24Z</updated>
+    <id>tag:github.com,2022-02-09:/golang/go/releases/tag/go1.17.7</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.14</title>
-    <updated></updated>
-    <id>urn:uuid:4e6c55d3-85d0-467e-972a-8f6c8ca4a82c</id>
+    <updated>2022-02-09T16:29:28Z</updated>
+    <id>tag:github.com,2022-02-09:/golang/go/releases/tag/go1.16.14</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.14" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.18beta2</title>
-    <updated></updated>
-    <id>urn:uuid:4efadd20-c7a6-4d7b-a4ce-26bf9c2f0a9a</id>
+    <updated>2022-01-31T13:43:52Z</updated>
+    <id>tag:github.com,2022-01-31:/golang/go/releases/tag/go1.18beta2</id>
     <link href="https://github.com/golang/go/releases/tag/go1.18beta2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.6</title>
-    <updated></updated>
-    <id>urn:uuid:59edae92-9a48-4f47-82ba-94ab31568e7c</id>
+    <updated>2022-01-06T19:06:43Z</updated>
+    <id>tag:github.com,2022-01-06:/golang/go/releases/tag/go1.17.6</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.13</title>
-    <updated></updated>
-    <id>urn:uuid:6777ec26-0e0f-4f4a-8984-2cb68b15e690</id>
+    <updated>2022-01-06T19:06:36Z</updated>
+    <id>tag:github.com,2022-01-06:/golang/go/releases/tag/go1.16.13</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.13" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.18beta1</title>
-    <updated></updated>
-    <id>urn:uuid:572ce1b9-224f-4a2e-b15e-2ba6d83f6298</id>
+    <updated>2021-12-14T17:43:51Z</updated>
+    <id>tag:github.com,2021-12-14:/golang/go/releases/tag/go1.18beta1</id>
     <link href="https://github.com/golang/go/releases/tag/go1.18beta1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.5</title>
-    <updated></updated>
-    <id>urn:uuid:38bf71f8-4a50-4039-8e8d-f82b724e35dd</id>
+    <updated>2021-12-09T13:44:55Z</updated>
+    <id>tag:github.com,2021-12-09:/golang/go/releases/tag/go1.17.5</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.12</title>
-    <updated></updated>
-    <id>urn:uuid:ad609425-c4a0-49cf-bd0b-4ba08f36d73f</id>
+    <updated>2021-12-09T13:44:57Z</updated>
+    <id>tag:github.com,2021-12-09:/golang/go/releases/tag/go1.16.12</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.12" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.4</title>
-    <updated></updated>
-    <id>urn:uuid:2f70521b-ae66-4742-8ff0-1724f8063b42</id>
+    <updated>2021-12-02T20:02:34Z</updated>
+    <id>tag:github.com,2021-12-02:/golang/go/releases/tag/go1.17.4</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.11</title>
-    <updated></updated>
-    <id>urn:uuid:e5a638a4-a903-4d55-840e-6a910d1352f2</id>
+    <updated>2021-12-02T20:00:54Z</updated>
+    <id>tag:github.com,2021-12-02:/golang/go/releases/tag/go1.16.11</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.11" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.3</title>
-    <updated></updated>
-    <id>urn:uuid:5275fe03-971a-4a6d-91d7-a1d6ca4e758b</id>
+    <updated>2021-11-04T13:55:24Z</updated>
+    <id>tag:github.com,2021-11-04:/golang/go/releases/tag/go1.17.3</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.10</title>
-    <updated></updated>
-    <id>urn:uuid:c86d5c61-8740-46ff-8079-4be1100a3415</id>
+    <updated>2021-11-04T13:55:28Z</updated>
+    <id>tag:github.com,2021-11-04:/golang/go/releases/tag/go1.16.10</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.10" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.2</title>
-    <updated></updated>
-    <id>urn:uuid:f039d70f-32e7-4036-97fd-3e0b9262b580</id>
+    <updated>2021-10-07T18:11:41Z</updated>
+    <id>tag:github.com,2021-10-07:/golang/go/releases/tag/go1.17.2</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.9</title>
-    <updated></updated>
-    <id>urn:uuid:11c05529-37d9-4e0c-bf2a-175d2db264d9</id>
+    <updated>2021-10-07T19:49:45Z</updated>
+    <id>tag:github.com,2021-10-07:/golang/go/releases/tag/go1.16.9</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17.1</title>
-    <updated></updated>
-    <id>urn:uuid:cbbfab2d-ea3c-42b2-b280-1b00a44ebc38</id>
+    <updated>2021-09-09T15:27:21Z</updated>
+    <id>tag:github.com,2021-09-09:/golang/go/releases/tag/go1.17.1</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17.1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.8</title>
-    <updated></updated>
-    <id>urn:uuid:84c4755b-9998-4eb7-8e0b-ffe2f8220e87</id>
+    <updated>2021-09-09T15:27:16Z</updated>
+    <id>tag:github.com,2021-09-09:/golang/go/releases/tag/go1.16.8</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17</title>
-    <updated></updated>
-    <id>urn:uuid:1de60760-da40-4c88-bcbe-ea1ddbfe7b5b</id>
+    <updated>2021-08-16T16:23:06Z</updated>
+    <id>tag:github.com,2021-08-16:/golang/go/releases/tag/go1.17</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.7</title>
-    <updated></updated>
-    <id>urn:uuid:f8a24449-f2ce-4290-b848-016355a2f7c8</id>
+    <updated>2021-08-04T20:44:12Z</updated>
+    <id>tag:github.com,2021-08-04:/golang/go/releases/tag/go1.16.7</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.15.15</title>
-    <updated></updated>
-    <id>urn:uuid:f1d3bee6-9556-4d6b-9253-7a1f700e5b66</id>
+    <updated>2021-08-04T20:44:05Z</updated>
+    <id>tag:github.com,2021-08-04:/golang/go/releases/tag/go1.15.15</id>
     <link href="https://github.com/golang/go/releases/tag/go1.15.15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17rc2</title>
-    <updated></updated>
-    <id>urn:uuid:63fe9776-3a39-47a8-a56c-5c150f662e99</id>
+    <updated>2021-08-02T17:57:22Z</updated>
+    <id>tag:github.com,2021-08-02:/golang/go/releases/tag/go1.17rc2</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17rc2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17rc1</title>
-    <updated></updated>
-    <id>urn:uuid:c97fc9d4-03ea-4fc9-bc29-1a57a67af72e</id>
+    <updated>2021-07-13T17:12:38Z</updated>
+    <id>tag:github.com,2021-07-13:/golang/go/releases/tag/go1.17rc1</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17rc1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.6</title>
-    <updated></updated>
-    <id>urn:uuid:3201da1b-3933-41b6-a18a-7535146eb3fa</id>
+    <updated>2021-07-12T19:45:05Z</updated>
+    <id>tag:github.com,2021-07-12:/golang/go/releases/tag/go1.16.6</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.15.14</title>
-    <updated></updated>
-    <id>urn:uuid:05cabfc1-2f72-48de-b0ce-fff429171c7a</id>
+    <updated>2021-07-12T19:44:54Z</updated>
+    <id>tag:github.com,2021-07-12:/golang/go/releases/tag/go1.15.14</id>
     <link href="https://github.com/golang/go/releases/tag/go1.15.14" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.17beta1</title>
-    <updated></updated>
-    <id>urn:uuid:e3b2fdc9-a2bb-417e-8c22-0107a2165085</id>
+    <updated>2021-06-10T12:41:37Z</updated>
+    <id>tag:github.com,2021-06-10:/golang/go/releases/tag/go1.17beta1</id>
     <link href="https://github.com/golang/go/releases/tag/go1.17beta1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.16.5</title>
-    <updated></updated>
-    <id>urn:uuid:4b97171a-2e4c-4ee6-a5c8-f45d1f3f49a3</id>
+    <updated>2021-06-03T17:14:44Z</updated>
+    <id>tag:github.com,2021-06-03:/golang/go/releases/tag/go1.16.5</id>
     <link href="https://github.com/golang/go/releases/tag/go1.16.5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>go1.15.13</title>
-    <updated></updated>
-    <id>urn:uuid:6fd54ccd-2713-4b2b-b42e-13031b863997</id>
+    <updated>2021-06-03T17:14:37Z</updated>
+    <id>tag:github.com,2021-06-03:/golang/go/releases/tag/go1.15.13</id>
     <link href="https://github.com/golang/go/releases/tag/go1.15.13" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
