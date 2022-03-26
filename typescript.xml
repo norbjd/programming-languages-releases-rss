@@ -1,217 +1,187 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TypeScript releases</title>
-  <id>https://github.com/microsoft/TypeScript/tags</id>
-  <updated>2022-03-26T16:36:34Z</updated>
-  <subtitle>TypeScript releases</subtitle>
-  <link href="https://github.com/microsoft/TypeScript/tags"></link>
-  <entry>
-    <title>v4.6.3</title>
-    <updated>2022-03-16T19:25:26Z</updated>
-    <id>tag:github.com,2022-03-16:/microsoft/TypeScript/releases/tag/v4.6.3</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.6.3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.6.2</title>
-    <updated>2022-02-23T08:56:14Z</updated>
-    <id>tag:github.com,2022-02-23:/microsoft/TypeScript/releases/tag/v4.6.2</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.6.2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.6-rc</title>
-    <updated>2022-02-11T01:14:20Z</updated>
-    <id>tag:github.com,2022-02-11:/microsoft/TypeScript/releases/tag/v4.6-rc</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.6-rc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.6-beta</title>
-    <updated>2022-01-21T04:45:31Z</updated>
-    <id>tag:github.com,2022-01-21:/microsoft/TypeScript/releases/tag/v4.6-beta</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.6-beta" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5.5</title>
-    <updated>2022-01-20T00:53:53Z</updated>
-    <id>tag:github.com,2022-01-20:/microsoft/TypeScript/releases/tag/v4.5.5</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5.5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5.4</title>
-    <updated>2021-12-11T00:10:14Z</updated>
-    <id>tag:github.com,2021-12-11:/microsoft/TypeScript/releases/tag/v4.5.4</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5.4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5.3</title>
-    <updated>2021-12-07T23:41:28Z</updated>
-    <id>tag:github.com,2021-12-07:/microsoft/TypeScript/releases/tag/v4.5.3</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5.3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5.2</title>
-    <updated>2021-11-12T00:09:49Z</updated>
-    <id>tag:github.com,2021-11-12:/microsoft/TypeScript/releases/tag/v4.5.2</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5.2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5-rc</title>
-    <updated>2021-10-31T19:35:06Z</updated>
-    <id>tag:github.com,2021-10-31:/microsoft/TypeScript/releases/tag/v4.5-rc</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5-rc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.4.4</title>
-    <updated>2021-10-06T23:30:48Z</updated>
-    <id>tag:github.com,2021-10-06:/microsoft/TypeScript/releases/tag/v4.4.4</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.4.4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.5-beta</title>
-    <updated>2021-10-01T21:10:31Z</updated>
-    <id>tag:github.com,2021-10-01:/microsoft/TypeScript/releases/tag/v4.5-beta</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.5-beta" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.4.3</title>
-    <updated>2021-09-10T20:36:51Z</updated>
-    <id>tag:github.com,2021-09-10:/microsoft/TypeScript/releases/tag/v4.4.3</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.4.3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.4.2</title>
-    <updated>2021-08-24T00:07:38Z</updated>
-    <id>tag:github.com,2021-08-24:/microsoft/TypeScript/releases/tag/v4.4.2</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.4.2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.4-rc</title>
-    <updated>2021-08-11T21:50:36Z</updated>
-    <id>tag:github.com,2021-08-11:/microsoft/TypeScript/releases/tag/v4.4-rc</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.4-rc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.4-beta</title>
-    <updated>2021-06-30T01:40:28Z</updated>
-    <id>tag:github.com,2021-06-30:/microsoft/TypeScript/releases/tag/v4.4-beta</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.4-beta" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3.5</title>
-    <updated>2021-06-30T22:06:15Z</updated>
-    <id>tag:github.com,2021-06-30:/microsoft/TypeScript/releases/tag/v4.3.5</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3.5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3.4</title>
-    <updated>2021-06-17T00:00:02Z</updated>
-    <id>tag:github.com,2021-06-17:/microsoft/TypeScript/releases/tag/v4.3.4</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3.4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3.3</title>
-    <updated>2021-06-16T22:59:02Z</updated>
-    <id>tag:github.com,2021-06-16:/microsoft/TypeScript/releases/tag/v4.3.3</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3.3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.1.6</title>
-    <updated>2021-06-16T23:19:48Z</updated>
-    <id>tag:github.com,2021-06-16:/microsoft/TypeScript/releases/tag/v4.1.6</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.1.6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.0.8</title>
-    <updated>2021-06-16T22:33:48Z</updated>
-    <id>tag:github.com,2021-06-16:/microsoft/TypeScript/releases/tag/v4.0.8</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.0.8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v3.9.10</title>
-    <updated>2021-06-16T00:17:18Z</updated>
-    <id>tag:github.com,2021-06-16:/microsoft/TypeScript/releases/tag/v3.9.10</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v3.9.10" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3.2</title>
-    <updated>2021-05-25T18:40:42Z</updated>
-    <id>tag:github.com,2021-05-25:/microsoft/TypeScript/releases/tag/v4.3.2</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3.2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3-rc</title>
-    <updated>2021-05-10T19:48:05Z</updated>
-    <id>tag:github.com,2021-05-10:/microsoft/TypeScript/releases/tag/v4.3-rc</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3-rc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.2.4</title>
-    <updated>2021-04-05T18:48:03Z</updated>
-    <id>tag:github.com,2021-04-05:/microsoft/TypeScript/releases/tag/v4.2.4</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.2.4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.3-beta</title>
-    <updated>2021-03-31T23:20:25Z</updated>
-    <id>tag:github.com,2021-03-31:/microsoft/TypeScript/releases/tag/v4.3-beta</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.3-beta" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.2.3</title>
-    <updated>2021-03-03T19:24:22Z</updated>
-    <id>tag:github.com,2021-03-03:/microsoft/TypeScript/releases/tag/v4.2.3</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.2.3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.2.2</title>
-    <updated>2021-02-23T02:36:09Z</updated>
-    <id>tag:github.com,2021-02-23:/microsoft/TypeScript/releases/tag/v4.2.2</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.2.2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.2-rc</title>
-    <updated>2021-02-10T00:52:29Z</updated>
-    <id>tag:github.com,2021-02-10:/microsoft/TypeScript/releases/tag/v4.2-rc</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.2-rc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.1.5</title>
-    <updated>2021-02-10T00:22:08Z</updated>
-    <id>tag:github.com,2021-02-10:/microsoft/TypeScript/releases/tag/v4.1.5</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.1.5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>v4.0.7</title>
-    <updated>2021-02-10T00:20:52Z</updated>
-    <id>tag:github.com,2021-02-10:/microsoft/TypeScript/releases/tag/v4.0.7</id>
-    <link href="https://github.com/microsoft/TypeScript/releases/tag/v4.0.7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-</feed>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TypeScript releases</title>
+    <link>https://github.com/microsoft/TypeScript/tags</link>
+    <description>TypeScript releases</description>
+    <item>
+      <title>v4.6.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.6.3</link>
+      <description></description>
+      <pubDate>Wed, 16 Mar 2022 19:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.6.2</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.6.2</link>
+      <description></description>
+      <pubDate>Wed, 23 Feb 2022 08:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.6-rc</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.6-rc</link>
+      <description></description>
+      <pubDate>Fri, 11 Feb 2022 01:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.6-beta</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.6-beta</link>
+      <description></description>
+      <pubDate>Fri, 21 Jan 2022 04:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5.5</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5.5</link>
+      <description></description>
+      <pubDate>Thu, 20 Jan 2022 00:53:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5.4</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5.4</link>
+      <description></description>
+      <pubDate>Sat, 11 Dec 2021 00:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5.3</link>
+      <description></description>
+      <pubDate>Tue, 07 Dec 2021 23:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5.2</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5.2</link>
+      <description></description>
+      <pubDate>Fri, 12 Nov 2021 00:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5-rc</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5-rc</link>
+      <description></description>
+      <pubDate>Sun, 31 Oct 2021 19:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.4.4</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.4.4</link>
+      <description></description>
+      <pubDate>Wed, 06 Oct 2021 23:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.5-beta</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.5-beta</link>
+      <description></description>
+      <pubDate>Fri, 01 Oct 2021 21:10:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.4.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.4.3</link>
+      <description></description>
+      <pubDate>Fri, 10 Sep 2021 20:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.4.2</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.4.2</link>
+      <description></description>
+      <pubDate>Tue, 24 Aug 2021 00:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.4-rc</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.4-rc</link>
+      <description></description>
+      <pubDate>Wed, 11 Aug 2021 21:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.4-beta</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.4-beta</link>
+      <description></description>
+      <pubDate>Wed, 30 Jun 2021 01:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3.5</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3.5</link>
+      <description></description>
+      <pubDate>Wed, 30 Jun 2021 22:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3.4</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3.4</link>
+      <description></description>
+      <pubDate>Thu, 17 Jun 2021 00:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3.3</link>
+      <description></description>
+      <pubDate>Wed, 16 Jun 2021 22:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.1.6</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.1.6</link>
+      <description></description>
+      <pubDate>Wed, 16 Jun 2021 23:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.0.8</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.0.8</link>
+      <description></description>
+      <pubDate>Wed, 16 Jun 2021 22:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.9.10</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v3.9.10</link>
+      <description></description>
+      <pubDate>Wed, 16 Jun 2021 00:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3.2</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3.2</link>
+      <description></description>
+      <pubDate>Tue, 25 May 2021 18:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3-rc</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3-rc</link>
+      <description></description>
+      <pubDate>Mon, 10 May 2021 19:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.2.4</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.2.4</link>
+      <description></description>
+      <pubDate>Mon, 05 Apr 2021 18:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.3-beta</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.3-beta</link>
+      <description></description>
+      <pubDate>Wed, 31 Mar 2021 23:20:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.2.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.2.3</link>
+      <description></description>
+      <pubDate>Wed, 03 Mar 2021 19:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.2.2</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.2.2</link>
+      <description></description>
+      <pubDate>Tue, 23 Feb 2021 02:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.2-rc</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.2-rc</link>
+      <description></description>
+      <pubDate>Wed, 10 Feb 2021 00:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.1.5</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.1.5</link>
+      <description></description>
+      <pubDate>Wed, 10 Feb 2021 00:22:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4.0.7</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.0.7</link>
+      <description></description>
+      <pubDate>Wed, 10 Feb 2021 00:20:52 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
