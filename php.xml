@@ -1,186 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>PHP releases</title>
-    <link>https://github.com/php/php-src/tags</link>
-    <description>PHP releases</description>
-    <item>
-      <title>php-8.1.4</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.4</link>
-      <description></description>
-      <pubDate>Tue, 15 Mar 2022 15:15:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.17</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.17</link>
-      <description></description>
-      <pubDate>Tue, 15 Mar 2022 09:27:46 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.4RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.4RC1</link>
-      <description></description>
-      <pubDate>Wed, 02 Mar 2022 17:30:42 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.17RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.17RC1</link>
-      <description></description>
-      <pubDate>Tue, 01 Mar 2022 11:24:33 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.3</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.3</link>
-      <description></description>
-      <pubDate>Wed, 16 Feb 2022 01:57:18 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.16</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.16</link>
-      <description></description>
-      <pubDate>Tue, 15 Feb 2022 21:37:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.28</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.28</link>
-      <description></description>
-      <pubDate>Tue, 15 Feb 2022 13:24:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.3RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.3RC1</link>
-      <description></description>
-      <pubDate>Thu, 03 Feb 2022 02:57:39 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.16RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.16RC1</link>
-      <description></description>
-      <pubDate>Wed, 02 Feb 2022 23:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.2</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.2</link>
-      <description></description>
-      <pubDate>Tue, 18 Jan 2022 17:50:01 -0600</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.15</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.15</link>
-      <description></description>
-      <pubDate>Tue, 18 Jan 2022 09:20:18 -0300</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.2RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.2RC1</link>
-      <description></description>
-      <pubDate>Tue, 04 Jan 2022 19:08:03 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.15RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.15RC1</link>
-      <description></description>
-      <pubDate>Tue, 04 Jan 2022 09:37:26 -0300</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.14</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.14</link>
-      <description></description>
-      <pubDate>Thu, 16 Dec 2021 03:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.1</link>
-      <description></description>
-      <pubDate>Wed, 15 Dec 2021 02:58:28 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.27</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.27</link>
-      <description></description>
-      <pubDate>Tue, 14 Dec 2021 17:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.1RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.1RC1</link>
-      <description></description>
-      <pubDate>Thu, 02 Dec 2021 10:18:03 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.14RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.14RC1</link>
-      <description></description>
-      <pubDate>Thu, 02 Dec 2021 05:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.27RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.27RC1</link>
-      <description></description>
-      <pubDate>Tue, 30 Nov 2021 18:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.0</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.0</link>
-      <description></description>
-      <pubDate>Tue, 23 Nov 2021 19:52:55 +0100</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.13</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.13</link>
-      <description></description>
-      <pubDate>Tue, 16 Nov 2021 20:54:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.26</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.26</link>
-      <description></description>
-      <pubDate>Tue, 16 Nov 2021 15:35:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-7.3.33</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.3.33</link>
-      <description></description>
-      <pubDate>Tue, 16 Nov 2021 11:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.0RC6</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.0RC6</link>
-      <description></description>
-      <pubDate>Tue, 09 Nov 2021 17:41:43 -0600</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.13RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.13RC1</link>
-      <description></description>
-      <pubDate>Tue, 02 Nov 2021 15:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.26RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.26RC1</link>
-      <description></description>
-      <pubDate>Tue, 02 Nov 2021 16:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.0RC5</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.0RC5</link>
-      <description></description>
-    </item>
-    <item>
-      <title>php-7.3.32</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.3.32</link>
-      <description></description>
-      <pubDate>Tue, 26 Oct 2021 15:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.12</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.12</link>
-      <description></description>
-      <pubDate>Tue, 19 Oct 2021 12:38:41 +0200</pubDate>
-    </item>
-    <item>
-      <title>php-7.4.25</title>
-      <link>https://github.com/php/php-src/releases/tag/php-7.4.25</link>
-      <description></description>
-      <pubDate>Tue, 19 Oct 2021 16:23:46 +0100</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PHP releases</title>
+  <id>https://github.com/php/php-src/tags</id>
+  <updated>2022-03-26T15:10:16Z</updated>
+  <subtitle>PHP releases</subtitle>
+  <link href="https://github.com/php/php-src/tags"></link>
+  <entry>
+    <title>php-8.1.4</title>
+    <updated>2022-03-15T20:15:34Z</updated>
+    <id>tag:github.com,2022-03-15:/php/php-src/releases/tag/php-8.1.4</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.17</title>
+    <updated>2022-03-15T08:27:46Z</updated>
+    <id>tag:github.com,2022-03-15:/php/php-src/releases/tag/php-8.0.17</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.17" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.4RC1</title>
+    <updated>2022-03-02T16:30:42Z</updated>
+    <id>tag:github.com,2022-03-02:/php/php-src/releases/tag/php-8.1.4RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.4RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.17RC1</title>
+    <updated>2022-03-01T10:24:33Z</updated>
+    <id>tag:github.com,2022-03-01:/php/php-src/releases/tag/php-8.0.17RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.17RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.3</title>
+    <updated>2022-02-16T00:57:18Z</updated>
+    <id>tag:github.com,2022-02-16:/php/php-src/releases/tag/php-8.1.3</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.16</title>
+    <updated>2022-02-15T21:37:41Z</updated>
+    <id>tag:github.com,2022-02-15:/php/php-src/releases/tag/php-8.0.16</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.16" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.28</title>
+    <updated>2022-02-15T13:24:53Z</updated>
+    <id>tag:github.com,2022-02-15:/php/php-src/releases/tag/php-7.4.28</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.28" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.3RC1</title>
+    <updated>2022-02-03T01:57:39Z</updated>
+    <id>tag:github.com,2022-02-03:/php/php-src/releases/tag/php-8.1.3RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.3RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.16RC1</title>
+    <updated>2022-02-02T23:34:40Z</updated>
+    <id>tag:github.com,2022-02-02:/php/php-src/releases/tag/php-8.0.16RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.16RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.2</title>
+    <updated>2022-01-18T23:50:01Z</updated>
+    <id>tag:github.com,2022-01-18:/php/php-src/releases/tag/php-8.1.2</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.15</title>
+    <updated>2022-01-18T12:20:18Z</updated>
+    <id>tag:github.com,2022-01-18:/php/php-src/releases/tag/php-8.0.15</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.2RC1</title>
+    <updated>2022-01-04T18:08:03Z</updated>
+    <id>tag:github.com,2022-01-04:/php/php-src/releases/tag/php-8.1.2RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.2RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.15RC1</title>
+    <updated>2022-01-04T12:37:26Z</updated>
+    <id>tag:github.com,2022-01-04:/php/php-src/releases/tag/php-8.0.15RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.15RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.14</title>
+    <updated>2021-12-16T03:07:33Z</updated>
+    <id>tag:github.com,2021-12-16:/php/php-src/releases/tag/php-8.0.14</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.14" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.1</title>
+    <updated>2021-12-15T01:58:28Z</updated>
+    <id>tag:github.com,2021-12-15:/php/php-src/releases/tag/php-8.1.1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.27</title>
+    <updated>2021-12-14T17:34:35Z</updated>
+    <id>tag:github.com,2021-12-14:/php/php-src/releases/tag/php-7.4.27</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.27" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.1RC1</title>
+    <updated>2021-12-02T09:18:03Z</updated>
+    <id>tag:github.com,2021-12-02:/php/php-src/releases/tag/php-8.1.1RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.1RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.14RC1</title>
+    <updated>2021-12-02T05:05:49Z</updated>
+    <id>tag:github.com,2021-12-02:/php/php-src/releases/tag/php-8.0.14RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.14RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.27RC1</title>
+    <updated>2021-11-30T18:37:35Z</updated>
+    <id>tag:github.com,2021-11-30:/php/php-src/releases/tag/php-7.4.27RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.27RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.0</title>
+    <updated>2021-11-23T18:52:55Z</updated>
+    <id>tag:github.com,2021-11-23:/php/php-src/releases/tag/php-8.1.0</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.13</title>
+    <updated>2021-11-16T20:54:47Z</updated>
+    <id>tag:github.com,2021-11-16:/php/php-src/releases/tag/php-8.0.13</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.13" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.26</title>
+    <updated>2021-11-16T15:35:57Z</updated>
+    <id>tag:github.com,2021-11-16:/php/php-src/releases/tag/php-7.4.26</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.26" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.3.33</title>
+    <updated>2021-11-16T11:16:55Z</updated>
+    <id>tag:github.com,2021-11-16:/php/php-src/releases/tag/php-7.3.33</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.3.33" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.0RC6</title>
+    <updated>2021-11-09T23:41:43Z</updated>
+    <id>tag:github.com,2021-11-09:/php/php-src/releases/tag/php-8.1.0RC6</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.0RC6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.13RC1</title>
+    <updated>2021-11-02T15:51:45Z</updated>
+    <id>tag:github.com,2021-11-02:/php/php-src/releases/tag/php-8.0.13RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.13RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.26RC1</title>
+    <updated>2021-11-02T16:37:52Z</updated>
+    <id>tag:github.com,2021-11-02:/php/php-src/releases/tag/php-7.4.26RC1</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.26RC1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.1.0RC5</title>
+    <updated></updated>
+    <id>urn:uuid:f13664e3-6c94-4b34-b37c-aab46a3a1b81</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.1.0RC5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.3.32</title>
+    <updated>2021-10-26T15:05:11Z</updated>
+    <id>tag:github.com,2021-10-26:/php/php-src/releases/tag/php-7.3.32</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.3.32" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-8.0.12</title>
+    <updated>2021-10-19T10:38:41Z</updated>
+    <id>tag:github.com,2021-10-19:/php/php-src/releases/tag/php-8.0.12</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-8.0.12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>php-7.4.25</title>
+    <updated>2021-10-19T15:23:46Z</updated>
+    <id>tag:github.com,2021-10-19:/php/php-src/releases/tag/php-7.4.25</id>
+    <link href="https://github.com/php/php-src/releases/tag/php-7.4.25" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

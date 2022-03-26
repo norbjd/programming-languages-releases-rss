@@ -1,187 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Rust releases</title>
-    <link>https://github.com/rust-lang/rust/tags</link>
-    <description>Rust releases</description>
-    <item>
-      <title>1.59.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.59.0</link>
-      <description></description>
-      <pubDate>Thu, 24 Feb 2022 11:05:40 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.58.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.58.1</link>
-      <description></description>
-      <pubDate>Thu, 20 Jan 2022 21:52:40 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.58.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.58.0</link>
-      <description></description>
-      <pubDate>Thu, 13 Jan 2022 17:13:51 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.57.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.57.0</link>
-      <description></description>
-      <pubDate>Thu, 02 Dec 2021 09:04:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.56.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.56.1</link>
-      <description></description>
-      <pubDate>Mon, 01 Nov 2021 12:03:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.56.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.56.0</link>
-      <description></description>
-      <pubDate>Thu, 21 Oct 2021 16:09:16 +0200</pubDate>
-    </item>
-    <item>
-      <title>1.55.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.55.0</link>
-      <description></description>
-      <pubDate>Thu, 09 Sep 2021 09:46:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.54.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.54.0</link>
-      <description></description>
-      <pubDate>Thu, 29 Jul 2021 15:26:35 +0200</pubDate>
-    </item>
-    <item>
-      <title>1.53.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.53.0</link>
-      <description></description>
-      <pubDate>Thu, 17 Jun 2021 10:21:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.52.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.52.1</link>
-      <description></description>
-      <pubDate>Mon, 10 May 2021 10:00:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.52.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.52.0</link>
-      <description></description>
-      <pubDate>Thu, 06 May 2021 17:05:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>1.51.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.51.0</link>
-      <description></description>
-      <pubDate>Thu, 25 Mar 2021 09:30:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.50.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.50.0</link>
-      <description></description>
-      <pubDate>Thu, 11 Feb 2021 09:10:28 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.49.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.49.0</link>
-      <description></description>
-      <pubDate>Thu, 31 Dec 2020 09:17:11 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.48.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.48.0</link>
-      <description></description>
-      <pubDate>Thu, 19 Nov 2020 15:12:57 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.47.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.47.0</link>
-      <description></description>
-      <pubDate>Thu, 08 Oct 2020 08:41:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.46.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.46.0</link>
-      <description></description>
-      <pubDate>Thu, 27 Aug 2020 17:15:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>1.45.2</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.45.2</link>
-      <description></description>
-      <pubDate>Mon, 03 Aug 2020 10:18:27 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.45.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.45.1</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2020 13:30:29 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.45.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.45.0</link>
-      <description></description>
-      <pubDate>Thu, 16 Jul 2020 15:08:14 +0200</pubDate>
-    </item>
-    <item>
-      <title>1.44.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.44.1</link>
-      <description></description>
-      <pubDate>Thu, 18 Jun 2020 09:10:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.44.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.44.0</link>
-      <description></description>
-      <pubDate>Thu, 04 Jun 2020 12:59:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.43.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.43.1</link>
-      <description></description>
-      <pubDate>Thu, 07 May 2020 10:29:35 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.43.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.43.0</link>
-      <description></description>
-      <pubDate>Thu, 23 Apr 2020 10:07:31 -0400</pubDate>
-    </item>
-    <item>
-      <title>1.42.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.42.0</link>
-      <description></description>
-      <pubDate>Thu, 12 Mar 2020 15:05:24 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.41.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.41.1</link>
-      <description></description>
-      <pubDate>Thu, 27 Feb 2020 09:12:27 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.41.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.41.0</link>
-      <description></description>
-      <pubDate>Thu, 30 Jan 2020 17:12:15 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.40.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.40.0</link>
-      <description></description>
-      <pubDate>Thu, 19 Dec 2019 10:02:44 -0500</pubDate>
-    </item>
-    <item>
-      <title>1.39.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.39.0</link>
-      <description></description>
-      <pubDate>Thu, 07 Nov 2019 14:11:08 +0100</pubDate>
-    </item>
-    <item>
-      <title>1.38.0</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.38.0</link>
-      <description></description>
-      <pubDate>Thu, 26 Sep 2019 09:23:25 -0400</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rust releases</title>
+  <id>https://github.com/rust-lang/rust/tags</id>
+  <updated>2022-03-26T15:10:16Z</updated>
+  <subtitle>Rust releases</subtitle>
+  <link href="https://github.com/rust-lang/rust/tags"></link>
+  <entry>
+    <title>1.59.0</title>
+    <updated>2022-02-24T16:05:40Z</updated>
+    <id>tag:github.com,2022-02-24:/rust-lang/rust/releases/tag/1.59.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.59.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.58.1</title>
+    <updated>2022-01-20T20:52:40Z</updated>
+    <id>tag:github.com,2022-01-20:/rust-lang/rust/releases/tag/1.58.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.58.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.58.0</title>
+    <updated>2022-01-13T16:13:51Z</updated>
+    <id>tag:github.com,2022-01-13:/rust-lang/rust/releases/tag/1.58.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.58.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.57.0</title>
+    <updated>2021-12-02T14:04:06Z</updated>
+    <id>tag:github.com,2021-12-02:/rust-lang/rust/releases/tag/1.57.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.57.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.56.1</title>
+    <updated>2021-11-01T11:03:26Z</updated>
+    <id>tag:github.com,2021-11-01:/rust-lang/rust/releases/tag/1.56.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.56.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.56.0</title>
+    <updated>2021-10-21T14:09:16Z</updated>
+    <id>tag:github.com,2021-10-21:/rust-lang/rust/releases/tag/1.56.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.56.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.55.0</title>
+    <updated>2021-09-09T13:46:35Z</updated>
+    <id>tag:github.com,2021-09-09:/rust-lang/rust/releases/tag/1.55.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.55.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.54.0</title>
+    <updated>2021-07-29T13:26:35Z</updated>
+    <id>tag:github.com,2021-07-29:/rust-lang/rust/releases/tag/1.54.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.54.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.53.0</title>
+    <updated>2021-06-17T14:21:32Z</updated>
+    <id>tag:github.com,2021-06-17:/rust-lang/rust/releases/tag/1.53.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.53.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.52.1</title>
+    <updated>2021-05-10T14:00:43Z</updated>
+    <id>tag:github.com,2021-05-10:/rust-lang/rust/releases/tag/1.52.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.52.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.52.0</title>
+    <updated>2021-05-06T15:05:22Z</updated>
+    <id>tag:github.com,2021-05-06:/rust-lang/rust/releases/tag/1.52.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.52.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.51.0</title>
+    <updated>2021-03-25T13:30:19Z</updated>
+    <id>tag:github.com,2021-03-25:/rust-lang/rust/releases/tag/1.51.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.51.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.50.0</title>
+    <updated>2021-02-11T14:10:28Z</updated>
+    <id>tag:github.com,2021-02-11:/rust-lang/rust/releases/tag/1.50.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.50.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.49.0</title>
+    <updated>2020-12-31T14:17:11Z</updated>
+    <id>tag:github.com,2020-12-31:/rust-lang/rust/releases/tag/1.49.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.49.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.48.0</title>
+    <updated>2020-11-19T14:12:57Z</updated>
+    <id>tag:github.com,2020-11-19:/rust-lang/rust/releases/tag/1.48.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.48.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.47.0</title>
+    <updated>2020-10-08T12:41:12Z</updated>
+    <id>tag:github.com,2020-10-08:/rust-lang/rust/releases/tag/1.47.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.47.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.46.0</title>
+    <updated>2020-08-27T15:15:10Z</updated>
+    <id>tag:github.com,2020-08-27:/rust-lang/rust/releases/tag/1.46.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.46.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.45.2</title>
+    <updated>2020-08-03T14:18:27Z</updated>
+    <id>tag:github.com,2020-08-03:/rust-lang/rust/releases/tag/1.45.2</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.45.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.45.1</title>
+    <updated>2020-07-30T17:30:29Z</updated>
+    <id>tag:github.com,2020-07-30:/rust-lang/rust/releases/tag/1.45.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.45.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.45.0</title>
+    <updated>2020-07-16T13:08:14Z</updated>
+    <id>tag:github.com,2020-07-16:/rust-lang/rust/releases/tag/1.45.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.45.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.44.1</title>
+    <updated>2020-06-18T13:10:24Z</updated>
+    <id>tag:github.com,2020-06-18:/rust-lang/rust/releases/tag/1.44.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.44.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.44.0</title>
+    <updated>2020-06-04T16:59:50Z</updated>
+    <id>tag:github.com,2020-06-04:/rust-lang/rust/releases/tag/1.44.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.44.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.43.1</title>
+    <updated>2020-05-07T14:29:35Z</updated>
+    <id>tag:github.com,2020-05-07:/rust-lang/rust/releases/tag/1.43.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.43.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.43.0</title>
+    <updated>2020-04-23T14:07:31Z</updated>
+    <id>tag:github.com,2020-04-23:/rust-lang/rust/releases/tag/1.43.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.43.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.42.0</title>
+    <updated>2020-03-12T14:05:24Z</updated>
+    <id>tag:github.com,2020-03-12:/rust-lang/rust/releases/tag/1.42.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.42.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.41.1</title>
+    <updated>2020-02-27T14:12:27Z</updated>
+    <id>tag:github.com,2020-02-27:/rust-lang/rust/releases/tag/1.41.1</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.41.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.41.0</title>
+    <updated>2020-01-30T16:12:15Z</updated>
+    <id>tag:github.com,2020-01-30:/rust-lang/rust/releases/tag/1.41.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.41.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.40.0</title>
+    <updated>2019-12-19T15:02:44Z</updated>
+    <id>tag:github.com,2019-12-19:/rust-lang/rust/releases/tag/1.40.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.40.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.39.0</title>
+    <updated>2019-11-07T13:11:08Z</updated>
+    <id>tag:github.com,2019-11-07:/rust-lang/rust/releases/tag/1.39.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.39.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>1.38.0</title>
+    <updated>2019-09-26T13:23:25Z</updated>
+    <id>tag:github.com,2019-09-26:/rust-lang/rust/releases/tag/1.38.0</id>
+    <link href="https://github.com/rust-lang/rust/releases/tag/1.38.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

@@ -1,187 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Node.js releases</title>
-    <link>https://github.com/nodejs/node/tags</link>
-    <description>Node.js releases</description>
-    <item>
-      <title>v17.8.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.8.0</link>
-      <description></description>
-      <pubDate>Tue, 22 Mar 2022 10:25:24 -0400</pubDate>
-    </item>
-    <item>
-      <title>v17.7.2</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.7.2</link>
-      <description></description>
-      <pubDate>Thu, 17 Mar 2022 20:57:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>v16.14.2</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.14.2</link>
-      <description></description>
-      <pubDate>Thu, 17 Mar 2022 20:45:30 -0400</pubDate>
-    </item>
-    <item>
-      <title>v14.19.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.19.1</link>
-      <description></description>
-      <pubDate>Thu, 17 Mar 2022 19:28:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>v12.22.11</title>
-      <link>https://github.com/nodejs/node/releases/tag/v12.22.11</link>
-      <description></description>
-      <pubDate>Thu, 17 Mar 2022 19:12:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>v16.14.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.14.1</link>
-      <description></description>
-      <pubDate>Tue, 15 Mar 2022 22:01:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>v17.7.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.7.1</link>
-      <description></description>
-      <pubDate>Thu, 10 Mar 2022 19:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.7.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.7.0</link>
-      <description></description>
-      <pubDate>Wed, 09 Mar 2022 16:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.6.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.6.0</link>
-      <description></description>
-      <pubDate>Tue, 22 Feb 2022 23:34:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.5.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.5.0</link>
-      <description></description>
-      <pubDate>Wed, 09 Feb 2022 23:49:52 -0500</pubDate>
-    </item>
-    <item>
-      <title>v16.14.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.14.0</link>
-      <description></description>
-      <pubDate>Tue, 08 Feb 2022 14:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>v14.19.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.19.0</link>
-      <description></description>
-      <pubDate>Tue, 01 Feb 2022 08:12:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>v12.22.10</title>
-      <link>https://github.com/nodejs/node/releases/tag/v12.22.10</link>
-      <description></description>
-      <pubDate>Tue, 01 Feb 2022 15:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>v17.4.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.4.0</link>
-      <description></description>
-      <pubDate>Tue, 18 Jan 2022 15:59:49 +0100</pubDate>
-    </item>
-    <item>
-      <title>v17.3.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.3.1</link>
-      <description></description>
-      <pubDate>Mon, 10 Jan 2022 20:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>v16.13.2</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.13.2</link>
-      <description></description>
-      <pubDate>Mon, 10 Jan 2022 17:51:06 -0500</pubDate>
-    </item>
-    <item>
-      <title>v14.18.3</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.18.3</link>
-      <description></description>
-      <pubDate>Mon, 10 Jan 2022 22:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>v12.22.9</title>
-      <link>https://github.com/nodejs/node/releases/tag/v12.22.9</link>
-      <description></description>
-      <pubDate>Mon, 10 Jan 2022 22:45:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.3.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.3.0</link>
-      <description></description>
-      <pubDate>Fri, 17 Dec 2021 18:07:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>v12.22.8</title>
-      <link>https://github.com/nodejs/node/releases/tag/v12.22.8</link>
-      <description></description>
-      <pubDate>Thu, 16 Dec 2021 23:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>v16.13.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.13.1</link>
-      <description></description>
-      <pubDate>Wed, 01 Dec 2021 14:21:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.2.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.2.0</link>
-      <description></description>
-      <pubDate>Tue, 30 Nov 2021 18:42:01 +0100</pubDate>
-    </item>
-    <item>
-      <title>v14.18.2</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.18.2</link>
-      <description></description>
-      <pubDate>Tue, 30 Nov 2021 11:05:18 -0500</pubDate>
-    </item>
-    <item>
-      <title>v17.1.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.1.0</link>
-      <description></description>
-      <pubDate>Tue, 09 Nov 2021 20:01:19 +0100</pubDate>
-    </item>
-    <item>
-      <title>v16.13.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.13.0</link>
-      <description></description>
-      <pubDate>Tue, 26 Oct 2021 12:04:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>v17.0.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.0.1</link>
-      <description></description>
-      <pubDate>Wed, 20 Oct 2021 21:41:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>v16.12.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.12.0</link>
-      <description></description>
-      <pubDate>Wed, 20 Oct 2021 10:15:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>v17.0.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.0.0</link>
-      <description></description>
-      <pubDate>Tue, 19 Oct 2021 14:35:42 +0100</pubDate>
-    </item>
-    <item>
-      <title>v16.11.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.11.1</link>
-      <description></description>
-      <pubDate>Tue, 12 Oct 2021 09:59:04 -0400</pubDate>
-    </item>
-    <item>
-      <title>v14.18.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.18.1</link>
-      <description></description>
-      <pubDate>Tue, 12 Oct 2021 10:02:33 -0400</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Node.js releases</title>
+  <id>https://github.com/nodejs/node/tags</id>
+  <updated>2022-03-26T15:10:16Z</updated>
+  <subtitle>Node.js releases</subtitle>
+  <link href="https://github.com/nodejs/node/tags"></link>
+  <entry>
+    <title>v17.8.0</title>
+    <updated>2022-03-22T14:25:24Z</updated>
+    <id>tag:github.com,2022-03-22:/nodejs/node/releases/tag/v17.8.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.8.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.7.2</title>
+    <updated>2022-03-18T00:57:50Z</updated>
+    <id>tag:github.com,2022-03-18:/nodejs/node/releases/tag/v17.7.2</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.7.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.14.2</title>
+    <updated>2022-03-18T00:45:30Z</updated>
+    <id>tag:github.com,2022-03-18:/nodejs/node/releases/tag/v16.14.2</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.14.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v14.19.1</title>
+    <updated>2022-03-17T23:28:19Z</updated>
+    <id>tag:github.com,2022-03-17:/nodejs/node/releases/tag/v14.19.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v14.19.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v12.22.11</title>
+    <updated>2022-03-17T23:12:14Z</updated>
+    <id>tag:github.com,2022-03-17:/nodejs/node/releases/tag/v12.22.11</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v12.22.11" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.14.1</title>
+    <updated>2022-03-16T02:01:19Z</updated>
+    <id>tag:github.com,2022-03-16:/nodejs/node/releases/tag/v16.14.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.14.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.7.1</title>
+    <updated>2022-03-10T19:06:13Z</updated>
+    <id>tag:github.com,2022-03-10:/nodejs/node/releases/tag/v17.7.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.7.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.7.0</title>
+    <updated>2022-03-09T16:04:15Z</updated>
+    <id>tag:github.com,2022-03-09:/nodejs/node/releases/tag/v17.7.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.7.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.6.0</title>
+    <updated>2022-02-22T23:34:14Z</updated>
+    <id>tag:github.com,2022-02-22:/nodejs/node/releases/tag/v17.6.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.6.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.5.0</title>
+    <updated>2022-02-10T04:49:52Z</updated>
+    <id>tag:github.com,2022-02-10:/nodejs/node/releases/tag/v17.5.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.5.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.14.0</title>
+    <updated>2022-02-08T19:01:00Z</updated>
+    <id>tag:github.com,2022-02-08:/nodejs/node/releases/tag/v16.14.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.14.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v14.19.0</title>
+    <updated>2022-02-01T13:12:06Z</updated>
+    <id>tag:github.com,2022-02-01:/nodejs/node/releases/tag/v14.19.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v14.19.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v12.22.10</title>
+    <updated>2022-02-01T20:01:00Z</updated>
+    <id>tag:github.com,2022-02-01:/nodejs/node/releases/tag/v12.22.10</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v12.22.10" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.4.0</title>
+    <updated>2022-01-18T14:59:49Z</updated>
+    <id>tag:github.com,2022-01-18:/nodejs/node/releases/tag/v17.4.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.4.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.3.1</title>
+    <updated>2022-01-10T20:49:11Z</updated>
+    <id>tag:github.com,2022-01-10:/nodejs/node/releases/tag/v17.3.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.3.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.13.2</title>
+    <updated>2022-01-10T22:51:06Z</updated>
+    <id>tag:github.com,2022-01-10:/nodejs/node/releases/tag/v16.13.2</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.13.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v14.18.3</title>
+    <updated>2022-01-10T22:54:42Z</updated>
+    <id>tag:github.com,2022-01-10:/nodejs/node/releases/tag/v14.18.3</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v14.18.3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v12.22.9</title>
+    <updated>2022-01-10T22:45:30Z</updated>
+    <id>tag:github.com,2022-01-10:/nodejs/node/releases/tag/v12.22.9</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v12.22.9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.3.0</title>
+    <updated>2021-12-17T23:07:13Z</updated>
+    <id>tag:github.com,2021-12-17:/nodejs/node/releases/tag/v17.3.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.3.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v12.22.8</title>
+    <updated>2021-12-16T23:28:57Z</updated>
+    <id>tag:github.com,2021-12-16:/nodejs/node/releases/tag/v12.22.8</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v12.22.8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.13.1</title>
+    <updated>2021-12-01T14:21:48Z</updated>
+    <id>tag:github.com,2021-12-01:/nodejs/node/releases/tag/v16.13.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.13.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.2.0</title>
+    <updated>2021-11-30T17:42:01Z</updated>
+    <id>tag:github.com,2021-11-30:/nodejs/node/releases/tag/v17.2.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.2.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v14.18.2</title>
+    <updated>2021-11-30T16:05:18Z</updated>
+    <id>tag:github.com,2021-11-30:/nodejs/node/releases/tag/v14.18.2</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v14.18.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.1.0</title>
+    <updated>2021-11-09T19:01:19Z</updated>
+    <id>tag:github.com,2021-11-09:/nodejs/node/releases/tag/v17.1.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.1.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.13.0</title>
+    <updated>2021-10-26T16:04:58Z</updated>
+    <id>tag:github.com,2021-10-26:/nodejs/node/releases/tag/v16.13.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.13.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.0.1</title>
+    <updated>2021-10-20T19:41:55Z</updated>
+    <id>tag:github.com,2021-10-20:/nodejs/node/releases/tag/v17.0.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.0.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.12.0</title>
+    <updated>2021-10-20T14:15:47Z</updated>
+    <id>tag:github.com,2021-10-20:/nodejs/node/releases/tag/v16.12.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.12.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v17.0.0</title>
+    <updated>2021-10-19T13:35:42Z</updated>
+    <id>tag:github.com,2021-10-19:/nodejs/node/releases/tag/v17.0.0</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v17.0.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v16.11.1</title>
+    <updated>2021-10-12T13:59:04Z</updated>
+    <id>tag:github.com,2021-10-12:/nodejs/node/releases/tag/v16.11.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v16.11.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v14.18.1</title>
+    <updated>2021-10-12T14:02:33Z</updated>
+    <id>tag:github.com,2021-10-12:/nodejs/node/releases/tag/v14.18.1</id>
+    <link href="https://github.com/nodejs/node/releases/tag/v14.18.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

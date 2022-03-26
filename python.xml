@@ -1,187 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Python releases</title>
-    <link>https://github.com/python/cpython/tags</link>
-    <description>Python releases</description>
-    <item>
-      <title>v3.10.4</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.4</link>
-      <description></description>
-      <pubDate>Wed, 23 Mar 2022 20:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.12</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.12</link>
-      <description></description>
-      <pubDate>Wed, 23 Mar 2022 22:12:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.10.3</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.3</link>
-      <description></description>
-      <pubDate>Wed, 16 Mar 2022 11:27:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.11</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.11</link>
-      <description></description>
-      <pubDate>Wed, 16 Mar 2022 14:04:04 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.8.13</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.8.13</link>
-      <description></description>
-      <pubDate>Wed, 16 Mar 2022 13:29:53 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.7.13</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.7.13</link>
-      <description></description>
-      <pubDate>Wed, 16 Mar 2022 09:28:43 -0400</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a6</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a6</link>
-      <description></description>
-      <pubDate>Mon, 07 Mar 2022 12:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a5</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a5</link>
-      <description></description>
-      <pubDate>Thu, 03 Feb 2022 18:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a4</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a4</link>
-      <description></description>
-      <pubDate>Thu, 13 Jan 2022 19:39:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.10.2</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.2</link>
-      <description></description>
-      <pubDate>Thu, 13 Jan 2022 18:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.10</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.10</link>
-      <description></description>
-      <pubDate>Thu, 13 Jan 2022 22:22:58 +0100</pubDate>
-    </item>
-    <item>
-      <title>3.6</title>
-      <link>https://github.com/python/cpython/releases/tag/3.6</link>
-      <description></description>
-      <pubDate>Fri, 31 Dec 2021 19:57:13 -0500</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a3</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a3</link>
-      <description></description>
-      <pubDate>Wed, 08 Dec 2021 22:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.10.1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.1</link>
-      <description></description>
-      <pubDate>Mon, 06 Dec 2021 18:24:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.9</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.9</link>
-      <description></description>
-      <pubDate>Mon, 15 Nov 2021 18:43:46 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a2</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a2</link>
-      <description></description>
-      <pubDate>Fri, 05 Nov 2021 19:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.8</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.8</link>
-      <description></description>
-      <pubDate>Fri, 05 Nov 2021 20:22:06 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a1</link>
-      <description></description>
-      <pubDate>Tue, 05 Oct 2021 13:44:34 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0</link>
-      <description></description>
-      <pubDate>Mon, 04 Oct 2021 18:40:47 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0rc2</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0rc2</link>
-      <description></description>
-      <pubDate>Tue, 07 Sep 2021 14:18:43 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.7.12</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.7.12</link>
-      <description></description>
-      <pubDate>Fri, 03 Sep 2021 23:50:23 -0400</pubDate>
-    </item>
-    <item>
-      <title>v3.6.15</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.6.15</link>
-      <description></description>
-      <pubDate>Fri, 03 Sep 2021 23:50:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>v3.9.7</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.7</link>
-      <description></description>
-      <pubDate>Mon, 30 Aug 2021 21:03:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>v3.8.12</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.8.12</link>
-      <description></description>
-      <pubDate>Mon, 30 Aug 2021 16:27:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0rc1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0rc1</link>
-      <description></description>
-      <pubDate>Mon, 02 Aug 2021 20:55:54 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0b4</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0b4</link>
-      <description></description>
-      <pubDate>Sat, 10 Jul 2021 01:51:08 +0100</pubDate>
-    </item>
-    <item>
-      <title>v3.9.6</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.6</link>
-      <description></description>
-      <pubDate>Mon, 28 Jun 2021 10:27:41 +0200</pubDate>
-    </item>
-    <item>
-      <title>v3.8.11</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.8.11</link>
-      <description></description>
-      <pubDate>Mon, 28 Jun 2021 12:10:01 +0200</pubDate>
-    </item>
-    <item>
-      <title>v3.7.11</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.7.11</link>
-      <description></description>
-      <pubDate>Mon, 28 Jun 2021 12:52:58 -0400</pubDate>
-    </item>
-    <item>
-      <title>v3.6.14</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.6.14</link>
-      <description></description>
-      <pubDate>Mon, 28 Jun 2021 12:53:21 -0400</pubDate>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Python releases</title>
+  <id>https://github.com/python/cpython/tags</id>
+  <updated>2022-03-26T15:10:16Z</updated>
+  <subtitle>Python releases</subtitle>
+  <link href="https://github.com/python/cpython/tags"></link>
+  <entry>
+    <title>v3.10.4</title>
+    <updated>2022-03-23T20:12:10Z</updated>
+    <id>tag:github.com,2022-03-23:/python/cpython/releases/tag/v3.10.4</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.12</title>
+    <updated>2022-03-23T21:12:26Z</updated>
+    <id>tag:github.com,2022-03-23:/python/cpython/releases/tag/v3.9.12</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.3</title>
+    <updated>2022-03-16T11:27:15Z</updated>
+    <id>tag:github.com,2022-03-16:/python/cpython/releases/tag/v3.10.3</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.11</title>
+    <updated>2022-03-16T13:04:04Z</updated>
+    <id>tag:github.com,2022-03-16:/python/cpython/releases/tag/v3.9.11</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.11" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.8.13</title>
+    <updated>2022-03-16T12:29:53Z</updated>
+    <id>tag:github.com,2022-03-16:/python/cpython/releases/tag/v3.8.13</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.8.13" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.7.13</title>
+    <updated>2022-03-16T13:28:43Z</updated>
+    <id>tag:github.com,2022-03-16:/python/cpython/releases/tag/v3.7.13</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.7.13" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a6</title>
+    <updated>2022-03-07T12:32:19Z</updated>
+    <id>tag:github.com,2022-03-07:/python/cpython/releases/tag/v3.11.0a6</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a5</title>
+    <updated>2022-02-03T18:37:09Z</updated>
+    <id>tag:github.com,2022-02-03:/python/cpython/releases/tag/v3.11.0a5</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a4</title>
+    <updated>2022-01-13T19:39:03Z</updated>
+    <id>tag:github.com,2022-01-13:/python/cpython/releases/tag/v3.11.0a4</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.2</title>
+    <updated>2022-01-13T18:52:21Z</updated>
+    <id>tag:github.com,2022-01-13:/python/cpython/releases/tag/v3.10.2</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.10</title>
+    <updated>2022-01-13T21:22:58Z</updated>
+    <id>tag:github.com,2022-01-13:/python/cpython/releases/tag/v3.9.10</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.10" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>3.6</title>
+    <updated>2022-01-01T00:57:13Z</updated>
+    <id>tag:github.com,2022-01-01:/python/cpython/releases/tag/3.6</id>
+    <link href="https://github.com/python/cpython/releases/tag/3.6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a3</title>
+    <updated>2021-12-08T22:24:39Z</updated>
+    <id>tag:github.com,2021-12-08:/python/cpython/releases/tag/v3.11.0a3</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.1</title>
+    <updated>2021-12-06T18:24:55Z</updated>
+    <id>tag:github.com,2021-12-06:/python/cpython/releases/tag/v3.10.1</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.9</title>
+    <updated>2021-11-15T17:43:46Z</updated>
+    <id>tag:github.com,2021-11-15:/python/cpython/releases/tag/v3.9.9</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a2</title>
+    <updated>2021-11-05T19:04:05Z</updated>
+    <id>tag:github.com,2021-11-05:/python/cpython/releases/tag/v3.11.0a2</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.8</title>
+    <updated>2021-11-05T19:22:06Z</updated>
+    <id>tag:github.com,2021-11-05:/python/cpython/releases/tag/v3.9.8</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.11.0a1</title>
+    <updated>2021-10-05T12:44:34Z</updated>
+    <id>tag:github.com,2021-10-05:/python/cpython/releases/tag/v3.11.0a1</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.11.0a1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.0</title>
+    <updated>2021-10-04T17:40:47Z</updated>
+    <id>tag:github.com,2021-10-04:/python/cpython/releases/tag/v3.10.0</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.0rc2</title>
+    <updated>2021-09-07T13:18:43Z</updated>
+    <id>tag:github.com,2021-09-07:/python/cpython/releases/tag/v3.10.0rc2</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.0rc2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.7.12</title>
+    <updated>2021-09-04T03:50:23Z</updated>
+    <id>tag:github.com,2021-09-04:/python/cpython/releases/tag/v3.7.12</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.7.12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.6.15</title>
+    <updated>2021-09-04T03:50:45Z</updated>
+    <id>tag:github.com,2021-09-04:/python/cpython/releases/tag/v3.6.15</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.6.15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.7</title>
+    <updated>2021-08-30T19:03:08Z</updated>
+    <id>tag:github.com,2021-08-30:/python/cpython/releases/tag/v3.9.7</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.8.12</title>
+    <updated>2021-08-30T14:27:10Z</updated>
+    <id>tag:github.com,2021-08-30:/python/cpython/releases/tag/v3.8.12</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.8.12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.0rc1</title>
+    <updated>2021-08-02T19:55:54Z</updated>
+    <id>tag:github.com,2021-08-02:/python/cpython/releases/tag/v3.10.0rc1</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.0rc1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.10.0b4</title>
+    <updated>2021-07-10T00:51:08Z</updated>
+    <id>tag:github.com,2021-07-10:/python/cpython/releases/tag/v3.10.0b4</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.10.0b4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.9.6</title>
+    <updated>2021-06-28T08:27:41Z</updated>
+    <id>tag:github.com,2021-06-28:/python/cpython/releases/tag/v3.9.6</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.9.6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.8.11</title>
+    <updated>2021-06-28T10:10:01Z</updated>
+    <id>tag:github.com,2021-06-28:/python/cpython/releases/tag/v3.8.11</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.8.11" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.7.11</title>
+    <updated>2021-06-28T16:52:58Z</updated>
+    <id>tag:github.com,2021-06-28:/python/cpython/releases/tag/v3.7.11</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.7.11" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3.6.14</title>
+    <updated>2021-06-28T16:53:21Z</updated>
+    <id>tag:github.com,2021-06-28:/python/cpython/releases/tag/v3.6.14</id>
+    <link href="https://github.com/python/cpython/releases/tag/v3.6.14" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>
