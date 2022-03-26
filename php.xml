@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP releases</title>
   <id>https://github.com/php/php-src/tags</id>
-  <updated>2022-03-26T15:10:16Z</updated>
+  <updated>2022-03-26T16:09:03Z</updated>
   <subtitle>PHP releases</subtitle>
   <link href="https://github.com/php/php-src/tags"></link>
   <entry>
@@ -189,7 +189,7 @@
   <entry>
     <title>php-8.1.0RC5</title>
     <updated></updated>
-    <id>urn:uuid:f13664e3-6c94-4b34-b37c-aab46a3a1b81</id>
+    <id>urn:uuid:5d3ce6b9-80c7-4276-9f9d-ad471dd795aa</id>
     <link href="https://github.com/php/php-src/releases/tag/php-8.1.0RC5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>

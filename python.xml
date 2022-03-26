@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Python releases</title>
   <id>https://github.com/python/cpython/tags</id>
-  <updated>2022-03-26T15:10:16Z</updated>
+  <updated>2022-03-26T16:09:03Z</updated>
   <subtitle>Python releases</subtitle>
   <link href="https://github.com/python/cpython/tags"></link>
   <entry>
