@@ -127,7 +127,6 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 		Title:       fmt.Sprintf("%s releases", repo.Language),
 		Link:        &feeds.Link{Href: fmt.Sprintf("%s/tags", q.Repository.URL)},
 		Description: fmt.Sprintf("%s releases", repo.Language),
-		Updated:     time.Now().UTC(),
 	}
 
 	edges := q.Repository.Ref.Edges
