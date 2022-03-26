@@ -27,6 +27,7 @@ var repos = []*GithubRepo{
 	{ID: "rust", Language: "Rust", Owner: "rust-lang", Name: "rust"},
 	{ID: "php", Language: "PHP", Owner: "php", Name: "php-src"},
 	{ID: "go", Language: "Go", Owner: "golang", Name: "go"},
+	{ID: "ruby", Language: "Ruby", Owner: "ruby", Name: "ruby"},
 }
 
 const maxItems = 30
