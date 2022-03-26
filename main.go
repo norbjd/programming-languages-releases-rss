@@ -95,6 +95,9 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 									Date time.Time
 								} `graphql:"tagger"`
 							} `graphql:"... on Tag"`
+							Commit struct {
+								CommittedDate time.Time
+							} `graphql:"... on Commit"`
 						} `graphql:"target"`
 					} `graphql:"node"`
 				} `graphql:"edges"`
@@ -134,7 +137,13 @@ func createFeedFromGithubGraphQLAPI(ctx context.Context, client *githubv4.Client
 		item := &feeds.Item{
 			Title:   tagName,
 			Link:    &feeds.Link{Href: fmt.Sprintf("%s/releases/tag/%s", q.Repository.URL, tagName)},
-			Created: edge.Node.Target.Tag.Tagger.Date.UTC(),
+		}
+
+		tagDate := edge.Node.Target.Tag.Tagger.Date.UTC()
+		if tagDate.IsZero() {
+			item.Created = edge.Node.Target.Commit.CommittedDate.UTC()
+		} else {
+			item.Created = tagDate
 		}
 
 		feed.Items = append(feed.Items, item)
