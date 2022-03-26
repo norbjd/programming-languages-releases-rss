@@ -28,6 +28,7 @@ var repos = []*GithubRepo{
 	{ID: "php", Language: "PHP", Owner: "php", Name: "php-src"},
 	{ID: "go", Language: "Go", Owner: "golang", Name: "go"},
 	{ID: "ruby", Language: "Ruby", Owner: "ruby", Name: "ruby"},
+	{ID: "typescript", Language: "TypeScript", Owner: "microsoft", Name: "TypeScript"},
 }
 
 const maxItems = 30
