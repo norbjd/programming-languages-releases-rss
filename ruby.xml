@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ruby releases</title>
+  <id>https://github.com/ruby/ruby/tags</id>
+  <updated>2022-03-26T16:36:34Z</updated>
+  <subtitle>Ruby releases</subtitle>
+  <link href="https://github.com/ruby/ruby/tags"></link>
+  <entry>
+    <title>v3_1_1</title>
+    <updated>2022-02-18T09:42:25Z</updated>
+    <id>tag:github.com,2022-02-18:/ruby/ruby/releases/tag/v3_1_1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_1_1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_1_0</title>
+    <updated>2021-12-25T12:23:14Z</updated>
+    <id>tag:github.com,2021-12-25:/ruby/ruby/releases/tag/v3_1_0</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_1_0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_3</title>
+    <updated>2021-11-24T11:12:15Z</updated>
+    <id>tag:github.com,2021-11-24:/ruby/ruby/releases/tag/v3_0_3</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_5</title>
+    <updated>2021-11-24T11:21:17Z</updated>
+    <id>tag:github.com,2021-11-24:/ruby/ruby/releases/tag/v2_7_5</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_6_9</title>
+    <updated>2021-11-24T11:53:13Z</updated>
+    <id>tag:github.com,2021-11-24:/ruby/ruby/releases/tag/v2_6_9</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_6_9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_1_0_preview1</title>
+    <updated>2021-11-09T07:21:54Z</updated>
+    <id>tag:github.com,2021-11-09:/ruby/ruby/releases/tag/v3_1_0_preview1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_1_0_preview1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_2</title>
+    <updated>2021-07-07T10:08:35Z</updated>
+    <id>tag:github.com,2021-07-07:/ruby/ruby/releases/tag/v3_0_2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_4</title>
+    <updated>2021-07-07T10:48:22Z</updated>
+    <id>tag:github.com,2021-07-07:/ruby/ruby/releases/tag/v2_7_4</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_6_8</title>
+    <updated>2021-07-07T10:38:58Z</updated>
+    <id>tag:github.com,2021-07-07:/ruby/ruby/releases/tag/v2_6_8</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_6_8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_1</title>
+    <updated>2021-04-05T12:33:42Z</updated>
+    <id>tag:github.com,2021-04-05:/ruby/ruby/releases/tag/v3_0_1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_3</title>
+    <updated>2021-04-05T12:39:38Z</updated>
+    <id>tag:github.com,2021-04-05:/ruby/ruby/releases/tag/v2_7_3</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_6_7</title>
+    <updated>2021-04-05T11:48:34Z</updated>
+    <id>tag:github.com,2021-04-05:/ruby/ruby/releases/tag/v2_6_7</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_6_7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_5_9</title>
+    <updated>2021-04-05T11:46:35Z</updated>
+    <id>tag:github.com,2021-04-05:/ruby/ruby/releases/tag/v2_5_9</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_5_9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_0</title>
+    <updated>2020-12-25T03:33:01Z</updated>
+    <id>tag:github.com,2020-12-25:/ruby/ruby/releases/tag/v3_0_0</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_0_rc2</title>
+    <updated>2020-12-24T08:20:05Z</updated>
+    <id>tag:github.com,2020-12-24:/ruby/ruby/releases/tag/v3_0_0_rc2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_0_rc2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_0_rc1</title>
+    <updated>2020-12-20T10:36:24Z</updated>
+    <id>tag:github.com,2020-12-20:/ruby/ruby/releases/tag/v3_0_0_rc1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_0_rc1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_0_preview2</title>
+    <updated>2020-12-08T09:02:31Z</updated>
+    <id>tag:github.com,2020-12-08:/ruby/ruby/releases/tag/v3_0_0_preview2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_0_preview2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_2</title>
+    <updated>2020-10-01T12:15:38Z</updated>
+    <id>tag:github.com,2020-10-01:/ruby/ruby/releases/tag/v2_7_2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v3_0_0_preview1</title>
+    <updated>2020-09-25T13:16:55Z</updated>
+    <id>tag:github.com,2020-09-25:/ruby/ruby/releases/tag/v3_0_0_preview1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v3_0_0_preview1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_1</title>
+    <updated>2020-03-31T10:44:55Z</updated>
+    <id>tag:github.com,2020-03-31:/ruby/ruby/releases/tag/v2_7_1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_6_6</title>
+    <updated>2020-03-31T11:23:13Z</updated>
+    <id>tag:github.com,2020-03-31:/ruby/ruby/releases/tag/v2_6_6</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_6_6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_5_8</title>
+    <updated>2020-03-31T12:15:56Z</updated>
+    <id>tag:github.com,2020-03-31:/ruby/ruby/releases/tag/v2_5_8</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_5_8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_4_10</title>
+    <updated>2020-03-31T11:42:18Z</updated>
+    <id>tag:github.com,2020-03-31:/ruby/ruby/releases/tag/v2_4_10</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_4_10" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_0</title>
+    <updated>2019-12-25T09:50:58Z</updated>
+    <id>tag:github.com,2019-12-25:/ruby/ruby/releases/tag/v2_7_0</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_0_rc2</title>
+    <updated>2019-12-21T18:35:29Z</updated>
+    <id>tag:github.com,2019-12-21:/ruby/ruby/releases/tag/v2_7_0_rc2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_0_rc2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_0_rc1</title>
+    <updated>2019-12-17T15:08:43Z</updated>
+    <id>tag:github.com,2019-12-17:/ruby/ruby/releases/tag/v2_7_0_rc1</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_0_rc1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_0_preview3</title>
+    <updated>2019-11-23T07:06:30Z</updated>
+    <id>tag:github.com,2019-11-23:/ruby/ruby/releases/tag/v2_7_0_preview3</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_0_preview3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_7_0_preview2</title>
+    <updated>2019-10-22T10:46:44Z</updated>
+    <id>tag:github.com,2019-10-22:/ruby/ruby/releases/tag/v2_7_0_preview2</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_7_0_preview2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_4_9</title>
+    <updated>2019-10-02T05:02:17Z</updated>
+    <id>tag:github.com,2019-10-02:/ruby/ruby/releases/tag/v2_4_9</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_4_9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>v2_6_5</title>
+    <updated>2019-10-01T11:01:01Z</updated>
+    <id>tag:github.com,2019-10-01:/ruby/ruby/releases/tag/v2_6_5</id>
+    <link href="https://github.com/ruby/ruby/releases/tag/v2_6_5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>

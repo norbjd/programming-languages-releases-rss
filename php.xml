@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>PHP releases</title>
   <id>https://github.com/php/php-src/tags</id>
-  <updated>2022-03-26T16:12:18Z</updated>
+  <updated>2022-03-26T16:36:34Z</updated>
   <subtitle>PHP releases</subtitle>
   <link href="https://github.com/php/php-src/tags"></link>
   <entry>
