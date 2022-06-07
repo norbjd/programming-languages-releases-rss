@@ -4,6 +4,12 @@
     <link>https://github.com/python/cpython/tags</link>
     <description>Python releases</description>
     <item>
+      <title>v3.10.5</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.10.5</link>
+      <description></description>
+      <pubDate>Mon, 06 Jun 2022 11:53:34 +0000</pubDate>
+    </item>
+    <item>
       <title>v3.11.0b3</title>
       <link>https://github.com/python/cpython/releases/tag/v3.11.0b3</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/python/cpython/releases/tag/v3.8.12</link>
       <description></description>
       <pubDate>Mon, 30 Aug 2021 14:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0rc1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0rc1</link>
-      <description></description>
-      <pubDate>Mon, 02 Aug 2021 19:55:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
