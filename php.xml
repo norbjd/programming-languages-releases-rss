@@ -4,6 +4,24 @@
     <link>https://github.com/php/php-src/tags</link>
     <description>PHP releases</description>
     <item>
+      <title>php-8.2.0alpha2</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.2.0alpha2</link>
+      <description></description>
+      <pubDate>Tue, 21 Jun 2022 15:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>php-8.1.8RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.1.8RC1</link>
+      <description></description>
+      <pubDate>Tue, 21 Jun 2022 16:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>php-8.0.21RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.0.21RC1</link>
+      <description></description>
+      <pubDate>Tue, 21 Jun 2022 09:31:02 +0000</pubDate>
+    </item>
+    <item>
       <title>php-8.0.20</title>
       <link>https://github.com/php/php-src/releases/tag/php-8.0.20</link>
       <description></description>
@@ -164,24 +182,6 @@
       <link>https://github.com/php/php-src/releases/tag/php-8.1.2RC1</link>
       <description></description>
       <pubDate>Tue, 04 Jan 2022 18:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.15RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.15RC1</link>
-      <description></description>
-      <pubDate>Tue, 04 Jan 2022 12:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.14</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.14</link>
-      <description></description>
-      <pubDate>Thu, 16 Dec 2021 03:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.1.1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.1.1</link>
-      <description></description>
-      <pubDate>Wed, 15 Dec 2021 01:58:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
