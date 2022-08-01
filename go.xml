@@ -4,6 +4,18 @@
     <link>https://github.com/golang/go/tags</link>
     <description>Go releases</description>
     <item>
+      <title>go1.18.5</title>
+      <link>https://github.com/golang/go/releases/tag/go1.18.5</link>
+      <description></description>
+      <pubDate>Mon, 01 Aug 2022 15:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>go1.17.13</title>
+      <link>https://github.com/golang/go/releases/tag/go1.17.13</link>
+      <description></description>
+      <pubDate>Mon, 01 Aug 2022 15:12:52 +0000</pubDate>
+    </item>
+    <item>
       <title>go1.19rc2</title>
       <link>https://github.com/golang/go/releases/tag/go1.19rc2</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/golang/go/releases/tag/go1.17.2</link>
       <description></description>
       <pubDate>Thu, 07 Oct 2021 18:11:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>go1.16.9</title>
-      <link>https://github.com/golang/go/releases/tag/go1.16.9</link>
-      <description></description>
-      <pubDate>Thu, 07 Oct 2021 19:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>go1.17.1</title>
-      <link>https://github.com/golang/go/releases/tag/go1.17.1</link>
-      <description></description>
-      <pubDate>Thu, 09 Sep 2021 15:27:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
