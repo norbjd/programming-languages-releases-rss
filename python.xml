@@ -4,6 +4,24 @@
     <link>https://github.com/python/cpython/tags</link>
     <description>Python releases</description>
     <item>
+      <title>v3.9.14</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.9.14</link>
+      <description></description>
+      <pubDate>Tue, 06 Sep 2022 17:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.8.14</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.8.14</link>
+      <description></description>
+      <pubDate>Tue, 06 Sep 2022 20:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.7.14</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.7.14</link>
+      <description></description>
+      <pubDate>Tue, 06 Sep 2022 07:17:35 +0000</pubDate>
+    </item>
+    <item>
       <title>v3.10.7</title>
       <link>https://github.com/python/cpython/releases/tag/v3.10.7</link>
       <description></description>
@@ -164,24 +182,6 @@
       <link>https://github.com/python/cpython/releases/tag/v3.11.0a2</link>
       <description></description>
       <pubDate>Fri, 05 Nov 2021 19:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.8</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.9.8</link>
-      <description></description>
-      <pubDate>Fri, 05 Nov 2021 19:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a1</link>
-      <description></description>
-      <pubDate>Tue, 05 Oct 2021 12:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.10.0</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.0</link>
-      <description></description>
-      <pubDate>Mon, 04 Oct 2021 17:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
