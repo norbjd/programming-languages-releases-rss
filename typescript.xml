@@ -4,6 +4,12 @@
     <link>https://github.com/microsoft/TypeScript/tags</link>
     <description>TypeScript releases</description>
     <item>
+      <title>v4.8.3</title>
+      <link>https://github.com/microsoft/TypeScript/releases/tag/v4.8.3</link>
+      <description></description>
+      <pubDate>Wed, 07 Sep 2022 18:49:12 +0000</pubDate>
+    </item>
+    <item>
       <title>v4.8.2</title>
       <link>https://github.com/microsoft/TypeScript/releases/tag/v4.8.2</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/microsoft/TypeScript/releases/tag/v4.0.8</link>
       <description></description>
       <pubDate>Wed, 16 Jun 2021 22:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.9.10</title>
-      <link>https://github.com/microsoft/TypeScript/releases/tag/v3.9.10</link>
-      <description></description>
-      <pubDate>Wed, 16 Jun 2021 00:17:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
