@@ -10,6 +10,18 @@
       <pubDate>Tue, 13 Sep 2022 15:22:03 +0000</pubDate>
     </item>
     <item>
+      <title>php-8.1.11RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.1.11RC1</link>
+      <description></description>
+      <pubDate>Tue, 13 Sep 2022 21:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>php-8.0.24RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.0.24RC1</link>
+      <description></description>
+      <pubDate>Tue, 13 Sep 2022 23:39:49 +0000</pubDate>
+    </item>
+    <item>
       <title>php-8.2.0RC1</title>
       <link>https://github.com/php/php-src/releases/tag/php-8.2.0RC1</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/php/php-src/releases/tag/php-8.1.6RC1</link>
       <description></description>
       <pubDate>Wed, 27 Apr 2022 00:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.19RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.19RC1</link>
-      <description></description>
-      <pubDate>Tue, 26 Apr 2022 08:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.18</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.18</link>
-      <description></description>
-      <pubDate>Wed, 13 Apr 2022 02:48:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
