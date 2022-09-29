@@ -4,6 +4,12 @@
     <link>https://github.com/nodejs/node/tags</link>
     <description>Node.js releases</description>
     <item>
+      <title>v18.10.0</title>
+      <link>https://github.com/nodejs/node/releases/tag/v18.10.0</link>
+      <description></description>
+      <pubDate>Wed, 28 Sep 2022 17:29:46 +0000</pubDate>
+    </item>
+    <item>
       <title>v18.9.1</title>
       <link>https://github.com/nodejs/node/releases/tag/v18.9.1</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/nodejs/node/releases/tag/v16.14.1</link>
       <description></description>
       <pubDate>Wed, 16 Mar 2022 02:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>v17.7.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v17.7.1</link>
-      <description></description>
-      <pubDate>Thu, 10 Mar 2022 19:06:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
