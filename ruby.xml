@@ -10,10 +10,10 @@
       <pubDate>Thu, 08 Sep 2022 21:09:50 +0000</pubDate>
     </item>
     <item>
-      <title>v2_6_10</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_6_10</link>
+      <title>v3_1_2</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_1_2</link>
       <description></description>
-      <pubDate>Tue, 12 Apr 2022 11:50:11 +0000</pubDate>
+      <pubDate>Tue, 12 Apr 2022 11:11:15 +0000</pubDate>
     </item>
     <item>
       <title>v3_0_4</title>
@@ -28,10 +28,10 @@
       <pubDate>Tue, 12 Apr 2022 11:25:48 +0000</pubDate>
     </item>
     <item>
-      <title>v3_1_2</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v3_1_2</link>
+      <title>v2_6_10</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v2_6_10</link>
       <description></description>
-      <pubDate>Tue, 12 Apr 2022 11:11:15 +0000</pubDate>
+      <pubDate>Tue, 12 Apr 2022 11:50:11 +0000</pubDate>
     </item>
     <item>
       <title>v3_2_0_preview1</title>
@@ -52,10 +52,10 @@
       <pubDate>Sat, 25 Dec 2021 12:23:14 +0000</pubDate>
     </item>
     <item>
-      <title>v2_6_9</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_6_9</link>
+      <title>v3_0_3</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_0_3</link>
       <description></description>
-      <pubDate>Wed, 24 Nov 2021 11:53:13 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 11:12:15 +0000</pubDate>
     </item>
     <item>
       <title>v2_7_5</title>
@@ -64,16 +64,22 @@
       <pubDate>Wed, 24 Nov 2021 11:21:17 +0000</pubDate>
     </item>
     <item>
-      <title>v3_0_3</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v3_0_3</link>
+      <title>v2_6_9</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v2_6_9</link>
       <description></description>
-      <pubDate>Wed, 24 Nov 2021 11:12:15 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 11:53:13 +0000</pubDate>
     </item>
     <item>
       <title>v3_1_0_preview1</title>
       <link>https://github.com/ruby/ruby/releases/tag/v3_1_0_preview1</link>
       <description></description>
       <pubDate>Tue, 09 Nov 2021 07:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3_0_2</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_0_2</link>
+      <description></description>
+      <pubDate>Wed, 07 Jul 2021 10:08:35 +0000</pubDate>
     </item>
     <item>
       <title>v2_7_4</title>
@@ -88,22 +94,16 @@
       <pubDate>Wed, 07 Jul 2021 10:38:58 +0000</pubDate>
     </item>
     <item>
-      <title>v3_0_2</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v3_0_2</link>
+      <title>v3_0_1</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_0_1</link>
       <description></description>
-      <pubDate>Wed, 07 Jul 2021 10:08:35 +0000</pubDate>
+      <pubDate>Mon, 05 Apr 2021 12:33:42 +0000</pubDate>
     </item>
     <item>
       <title>v2_7_3</title>
       <link>https://github.com/ruby/ruby/releases/tag/v2_7_3</link>
       <description></description>
       <pubDate>Mon, 05 Apr 2021 12:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3_0_1</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v3_0_1</link>
-      <description></description>
-      <pubDate>Mon, 05 Apr 2021 12:33:42 +0000</pubDate>
     </item>
     <item>
       <title>v2_6_7</title>
@@ -154,6 +154,18 @@
       <pubDate>Fri, 25 Sep 2020 13:16:55 +0000</pubDate>
     </item>
     <item>
+      <title>v2_7_1</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v2_7_1</link>
+      <description></description>
+      <pubDate>Tue, 31 Mar 2020 10:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>v2_6_6</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v2_6_6</link>
+      <description></description>
+      <pubDate>Tue, 31 Mar 2020 11:23:13 +0000</pubDate>
+    </item>
+    <item>
       <title>v2_5_8</title>
       <link>https://github.com/ruby/ruby/releases/tag/v2_5_8</link>
       <description></description>
@@ -164,18 +176,6 @@
       <link>https://github.com/ruby/ruby/releases/tag/v2_4_10</link>
       <description></description>
       <pubDate>Tue, 31 Mar 2020 11:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>v2_6_6</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_6_6</link>
-      <description></description>
-      <pubDate>Tue, 31 Mar 2020 11:23:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>v2_7_1</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_7_1</link>
-      <description></description>
-      <pubDate>Tue, 31 Mar 2020 10:44:55 +0000</pubDate>
     </item>
     <item>
       <title>v2_7_0</title>
