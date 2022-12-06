@@ -4,6 +4,12 @@
     <link>https://github.com/php/php-src/tags</link>
     <description>PHP releases</description>
     <item>
+      <title>php-8.2.0</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.2.0</link>
+      <description></description>
+      <pubDate>Tue, 06 Dec 2022 13:44:19 +0000</pubDate>
+    </item>
+    <item>
       <title>php-8.2.0RC7</title>
       <link>https://github.com/php/php-src/releases/tag/php-8.2.0RC7</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/php/php-src/releases/tag/php-8.1.9</link>
       <description></description>
       <pubDate>Tue, 02 Aug 2022 13:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.0.22</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.0.22</link>
-      <description></description>
-      <pubDate>Tue, 02 Aug 2022 08:13:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
