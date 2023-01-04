@@ -4,6 +4,12 @@
     <link>https://github.com/golang/go/tags</link>
     <description>Go releases</description>
     <item>
+      <title>go1.20rc2</title>
+      <link>https://github.com/golang/go/releases/tag/go1.20rc2</link>
+      <description></description>
+      <pubDate>Wed, 04 Jan 2023 16:02:35 +0000</pubDate>
+    </item>
+    <item>
       <title>go1.20rc1</title>
       <link>https://github.com/golang/go/releases/tag/go1.20rc1</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/golang/go/releases/tag/go1.16.14</link>
       <description></description>
       <pubDate>Wed, 09 Feb 2022 16:29:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>go1.18beta2</title>
-      <link>https://github.com/golang/go/releases/tag/go1.18beta2</link>
-      <description></description>
-      <pubDate>Mon, 31 Jan 2022 13:43:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
