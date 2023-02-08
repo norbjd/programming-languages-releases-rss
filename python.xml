@@ -10,6 +10,18 @@
       <pubDate>Tue, 07 Feb 2023 12:21:15 +0000</pubDate>
     </item>
     <item>
+      <title>v3.11.2</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.11.2</link>
+      <description></description>
+      <pubDate>Tue, 07 Feb 2023 13:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.10.10</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.10.10</link>
+      <description></description>
+      <pubDate>Tue, 07 Feb 2023 12:05:50 +0000</pubDate>
+    </item>
+    <item>
       <title>v3.12.0a4</title>
       <link>https://github.com/python/cpython/releases/tag/v3.12.0a4</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/python/cpython/releases/tag/v3.9.13</link>
       <description></description>
       <pubDate>Tue, 17 May 2022 11:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0b1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0b1</link>
-      <description></description>
-      <pubDate>Fri, 06 May 2022 22:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0a7</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0a7</link>
-      <description></description>
-      <pubDate>Tue, 05 Apr 2022 19:54:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
