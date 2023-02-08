@@ -4,6 +4,12 @@
     <link>https://github.com/ruby/ruby/tags</link>
     <description>Ruby releases</description>
     <item>
+      <title>v3_2_1</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_2_1</link>
+      <description></description>
+      <pubDate>Wed, 08 Feb 2023 04:02:20 +0000</pubDate>
+    </item>
+    <item>
       <title>v3_2_0</title>
       <link>https://github.com/ruby/ruby/releases/tag/v3_2_0</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/ruby/ruby/releases/tag/v3_0_0_preview2</link>
       <description></description>
       <pubDate>Tue, 08 Dec 2020 09:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>v2_7_2</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_7_2</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2020 12:15:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
