@@ -4,6 +4,30 @@
     <link>https://github.com/nodejs/node/tags</link>
     <description>Node.js releases</description>
     <item>
+      <title>v19.6.1</title>
+      <link>https://github.com/nodejs/node/releases/tag/v19.6.1</link>
+      <description></description>
+      <pubDate>Thu, 16 Feb 2023 20:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>v18.14.1</title>
+      <link>https://github.com/nodejs/node/releases/tag/v18.14.1</link>
+      <description></description>
+      <pubDate>Thu, 16 Feb 2023 21:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>v16.19.1</title>
+      <link>https://github.com/nodejs/node/releases/tag/v16.19.1</link>
+      <description></description>
+      <pubDate>Thu, 16 Feb 2023 20:36:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>v14.21.3</title>
+      <link>https://github.com/nodejs/node/releases/tag/v14.21.3</link>
+      <description></description>
+      <pubDate>Thu, 16 Feb 2023 20:20:47 +0000</pubDate>
+    </item>
+    <item>
       <title>v18.14.0</title>
       <link>https://github.com/nodejs/node/releases/tag/v18.14.0</link>
       <description></description>
@@ -158,30 +182,6 @@
       <link>https://github.com/nodejs/node/releases/tag/v16.17.0</link>
       <description></description>
       <pubDate>Tue, 16 Aug 2022 10:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>v18.7.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v18.7.0</link>
-      <description></description>
-      <pubDate>Tue, 26 Jul 2022 22:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>v18.6.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v18.6.0</link>
-      <description></description>
-      <pubDate>Wed, 13 Jul 2022 20:49:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>v18.5.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v18.5.0</link>
-      <description></description>
-      <pubDate>Thu, 07 Jul 2022 13:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>v16.16.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.16.0</link>
-      <description></description>
-      <pubDate>Thu, 07 Jul 2022 13:37:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
