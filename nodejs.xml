@@ -4,6 +4,24 @@
     <link>https://github.com/nodejs/node/tags</link>
     <description>Node.js releases</description>
     <item>
+      <title>v20.5.1</title>
+      <link>https://github.com/nodejs/node/releases/tag/v20.5.1</link>
+      <description></description>
+      <pubDate>Wed, 09 Aug 2023 17:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>v18.17.1</title>
+      <link>https://github.com/nodejs/node/releases/tag/v18.17.1</link>
+      <description></description>
+      <pubDate>Wed, 09 Aug 2023 16:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>v16.20.2</title>
+      <link>https://github.com/nodejs/node/releases/tag/v16.20.2</link>
+      <description></description>
+      <pubDate>Wed, 09 Aug 2023 16:28:18 +0000</pubDate>
+    </item>
+    <item>
       <title>v20.5.0</title>
       <link>https://github.com/nodejs/node/releases/tag/v20.5.0</link>
       <description></description>
@@ -164,24 +182,6 @@
       <link>https://github.com/nodejs/node/releases/tag/v18.13.0</link>
       <description></description>
       <pubDate>Fri, 06 Jan 2023 00:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>v19.3.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v19.3.0</link>
-      <description></description>
-      <pubDate>Wed, 14 Dec 2022 13:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>v16.19.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.19.0</link>
-      <description></description>
-      <pubDate>Tue, 13 Dec 2022 12:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>v14.21.2</title>
-      <link>https://github.com/nodejs/node/releases/tag/v14.21.2</link>
-      <description></description>
-      <pubDate>Tue, 13 Dec 2022 12:31:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
