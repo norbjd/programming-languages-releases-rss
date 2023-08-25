@@ -4,10 +4,28 @@
     <link>https://github.com/python/cpython/tags</link>
     <description>Python releases</description>
     <item>
+      <title>v3.11.5</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.11.5</link>
+      <description></description>
+      <pubDate>Thu, 24 Aug 2023 12:09:19 +0000</pubDate>
+    </item>
+    <item>
       <title>v3.10.13</title>
       <link>https://github.com/python/cpython/releases/tag/v3.10.13</link>
       <description></description>
       <pubDate>Thu, 24 Aug 2023 12:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.9.18</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.9.18</link>
+      <description></description>
+      <pubDate>Thu, 24 Aug 2023 18:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.8.18</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.8.18</link>
+      <description></description>
+      <pubDate>Thu, 24 Aug 2023 19:36:51 +0000</pubDate>
     </item>
     <item>
       <title>v3.12.0rc1</title>
@@ -164,24 +182,6 @@
       <link>https://github.com/python/cpython/releases/tag/v3.12.0a2</link>
       <description></description>
       <pubDate>Mon, 14 Nov 2022 11:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.12.0a1</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.12.0a1</link>
-      <description></description>
-      <pubDate>Mon, 24 Oct 2022 22:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.0</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.0</link>
-      <description></description>
-      <pubDate>Mon, 24 Oct 2022 17:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.10.8</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.10.8</link>
-      <description></description>
-      <pubDate>Tue, 11 Oct 2022 11:21:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
