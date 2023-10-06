@@ -4,6 +4,12 @@
     <link>https://github.com/rust-lang/rust/tags</link>
     <description>Rust releases</description>
     <item>
+      <title>1.73.0</title>
+      <link>https://github.com/rust-lang/rust/releases/tag/1.73.0</link>
+      <description></description>
+      <pubDate>Thu, 05 Oct 2023 16:10:31 +0000</pubDate>
+    </item>
+    <item>
       <title>1.72.1</title>
       <link>https://github.com/rust-lang/rust/releases/tag/1.72.1</link>
       <description></description>
@@ -176,12 +182,6 @@
       <link>https://github.com/rust-lang/rust/releases/tag/1.53.0</link>
       <description></description>
       <pubDate>Thu, 17 Jun 2021 14:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>1.52.1</title>
-      <link>https://github.com/rust-lang/rust/releases/tag/1.52.1</link>
-      <description></description>
-      <pubDate>Mon, 10 May 2021 14:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
