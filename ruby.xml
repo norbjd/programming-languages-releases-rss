@@ -4,6 +4,18 @@
     <link>https://github.com/ruby/ruby/tags</link>
     <description>Ruby releases</description>
     <item>
+      <title>v3_3_0</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_3_0</link>
+      <description></description>
+      <pubDate>Mon, 25 Dec 2023 05:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3_3_0_rc1</title>
+      <link>https://github.com/ruby/ruby/releases/tag/v3_3_0_rc1</link>
+      <description></description>
+      <pubDate>Mon, 11 Dec 2023 07:06:03 +0000</pubDate>
+    </item>
+    <item>
       <title>v3_3_0_preview3</title>
       <link>https://github.com/ruby/ruby/releases/tag/v3_3_0_preview3</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/ruby/ruby/releases/tag/v2_7_4</link>
       <description></description>
       <pubDate>Wed, 07 Jul 2021 10:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>v2_6_8</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v2_6_8</link>
-      <description></description>
-      <pubDate>Wed, 07 Jul 2021 10:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3_0_1</title>
-      <link>https://github.com/ruby/ruby/releases/tag/v3_0_1</link>
-      <description></description>
-      <pubDate>Mon, 05 Apr 2021 12:33:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

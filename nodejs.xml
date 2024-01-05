@@ -4,6 +4,30 @@
     <link>https://github.com/nodejs/node/tags</link>
     <description>Node.js releases</description>
     <item>
+      <title>v21.5.0</title>
+      <link>https://github.com/nodejs/node/releases/tag/v21.5.0</link>
+      <description></description>
+      <pubDate>Tue, 19 Dec 2023 18:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>v21.4.0</title>
+      <link>https://github.com/nodejs/node/releases/tag/v21.4.0</link>
+      <description></description>
+      <pubDate>Tue, 05 Dec 2023 09:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>v21.3.0</title>
+      <link>https://github.com/nodejs/node/releases/tag/v21.3.0</link>
+      <description></description>
+      <pubDate>Thu, 30 Nov 2023 17:31:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>v18.19.0</title>
+      <link>https://github.com/nodejs/node/releases/tag/v18.19.0</link>
+      <description></description>
+      <pubDate>Wed, 29 Nov 2023 16:54:01 +0000</pubDate>
+    </item>
+    <item>
       <title>v20.10.0</title>
       <link>https://github.com/nodejs/node/releases/tag/v20.10.0</link>
       <description></description>
@@ -158,30 +182,6 @@
       <link>https://github.com/nodejs/node/releases/tag/v20.0.0</link>
       <description></description>
       <pubDate>Tue, 18 Apr 2023 16:01:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>v18.16.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v18.16.0</link>
-      <description></description>
-      <pubDate>Wed, 12 Apr 2023 23:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>v19.9.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v19.9.0</link>
-      <description></description>
-      <pubDate>Tue, 11 Apr 2023 00:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>v16.20.0</title>
-      <link>https://github.com/nodejs/node/releases/tag/v16.20.0</link>
-      <description></description>
-      <pubDate>Wed, 29 Mar 2023 17:39:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>v19.8.1</title>
-      <link>https://github.com/nodejs/node/releases/tag/v19.8.1</link>
-      <description></description>
-      <pubDate>Wed, 15 Mar 2023 17:09:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
