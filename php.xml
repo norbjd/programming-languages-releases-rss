@@ -4,6 +4,18 @@
     <link>https://github.com/php/php-src/tags</link>
     <description>PHP releases</description>
     <item>
+      <title>php-8.3.3RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.3.3RC1</link>
+      <description></description>
+      <pubDate>Tue, 30 Jan 2024 20:37:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>php-8.2.16RC1</title>
+      <link>https://github.com/php/php-src/releases/tag/php-8.2.16RC1</link>
+      <description></description>
+      <pubDate>Tue, 30 Jan 2024 17:38:10 +0000</pubDate>
+    </item>
+    <item>
       <title>php-8.3.2</title>
       <link>https://github.com/php/php-src/releases/tag/php-8.3.2</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/php/php-src/releases/tag/php-8.1.24</link>
       <description></description>
       <pubDate>Tue, 26 Sep 2023 23:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.3.0RC2</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.3.0RC2</link>
-      <description></description>
-      <pubDate>Tue, 12 Sep 2023 11:28:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>php-8.2.11RC1</title>
-      <link>https://github.com/php/php-src/releases/tag/php-8.2.11RC1</link>
-      <description></description>
-      <pubDate>Tue, 12 Sep 2023 11:51:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
