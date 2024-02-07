@@ -4,6 +4,18 @@
     <link>https://github.com/python/cpython/tags</link>
     <description>Python releases</description>
     <item>
+      <title>v3.12.2</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.12.2</link>
+      <description></description>
+      <pubDate>Tue, 06 Feb 2024 20:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>v3.11.8</title>
+      <link>https://github.com/python/cpython/releases/tag/v3.11.8</link>
+      <description></description>
+      <pubDate>Tue, 06 Feb 2024 21:21:23 +0000</pubDate>
+    </item>
+    <item>
       <title>v3.13.0a3</title>
       <link>https://github.com/python/cpython/releases/tag/v3.13.0a3</link>
       <description></description>
@@ -170,18 +182,6 @@
       <link>https://github.com/python/cpython/releases/tag/v3.12.0a6</link>
       <description></description>
       <pubDate>Tue, 07 Mar 2023 21:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.12.0a5</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.12.0a5</link>
-      <description></description>
-      <pubDate>Tue, 07 Feb 2023 12:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>v3.11.2</title>
-      <link>https://github.com/python/cpython/releases/tag/v3.11.2</link>
-      <description></description>
-      <pubDate>Tue, 07 Feb 2023 13:38:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
